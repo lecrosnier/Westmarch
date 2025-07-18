@@ -64,4 +64,4 @@ Ex :
 - Souris sentientes
 - Chevaliers minuscules armés d'aiguilles et de boutons
 - Deviennent vrais soldats dans le monde des Feys
-Faction qui guide les 
+Faction qui guide les joueurs
