@@ -1,4 +1,4 @@
-## Traverser hexa
+## Traverser hexagone
 
 
 | A pied | 4 hex/j |
