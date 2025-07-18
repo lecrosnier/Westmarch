@@ -16,7 +16,7 @@
 
 **Indépendantistes humains**
 - veulent se couper de la capitale et garder la colonie
-- veulent évincer les hommes poisson après
+- veulent évincer les hommes poisson après le cataclysme
 
 
 # Les Fey de la forêt
