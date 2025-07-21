@@ -37,3 +37,19 @@ Possible sur hexagones déjà parcouru ou sur chemin dégagé.
 | Proche        | non     | 1D4   | 1 et 2 sur D6  |
 | Intermédiaire | 1D4/PJ  | 2D4   | 1,2,3,4 sur D6 |
 | Loin          | 2d4/PJ  | 4D4   | 1,2,3,4,5 D6   |
+
+
+**Météo**
+
+
+| 2D6  | Météo      | Visibilité | Diffi terrain | Repos         |
+| ---- | ---------- | ---------- | ------------- | ------------- |
+| 2    | Horrible   | Aucune     | +2 cran       | DD15 CON      |
+| 2-5  | Mauvais    | 1 hex      | + 1 cran      | DD 12 CON     |
+| 6-8  | Normal     | 1 hex      |               |               |
+| 9-11 | Beau       | 1 hex      |               |               |
+| 12   | Magnifique | 2 hex      |               | Avan test CON |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
