@@ -37,16 +37,26 @@ Ex :
 
 # Le nécromancien
 
-- en train de déterrer la nécropole d'une colonne de croisade
-- la guenaude l'a envoyé faire ça sans lui donner le contexte
-- les soldats squelettes sont extrêmement pieux & très bien armés
-- les armures sont enchantées et résistent aux sorts des dieux loyaux
+- Une grande prêtresse des dieux Loyaux cherche à déterrer un artefact ancien
+- Le tombeau est en sommeil
+- C'est une nécropole de la dernière croisade des dieux loyaux
+- Elle a mis en esclavage un nécromancien
+	- la magie du chaos réveille le tombeau
+	- entraîne une réparation du lieu / rallume les lumières
+	- déclenche les pièges
+- Les squelettes ranimés font déclencher les défense
+- Ambiance de fin du monde dans le tombeau
+- Les soldats squelettes du nécromancien vs des golems légers
 
 => Squelettes d'animaux/zombie en dehors de la nécropole
 
-- Necromancien tombe sur les gantelets des dieux Loyaux
+- Prêtresse tombe sur les gantelets des dieux Loyaux
 - Fin à la indiana Jones & l'arche perdue
 - Quête finale de redescendre les gantelets vers le fond de la nécropole
+
+Idées de pièges : 
+- Pédiluve d'eau bénite
+- 
 
 
 # La tribu de gobelins
