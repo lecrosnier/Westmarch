@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Factions"
             }
           }
         ]
@@ -170,11 +170,13 @@
   },
   "active": "835a849112e92fae",
   "lastOpenFiles": [
-    "Factions.md",
-    "Règle Hexploration.md",
-    "Règles.md",
-    "Lore.md",
+    "Pasted image 20250801143839.png",
+    "Westmarch.canvas",
     "Pasted image 20250710164624.png",
-    "Westmarch.canvas"
+    "Factions.md",
+    "Règles.md",
+    "Règle Hexploration.md",
+    "README.md",
+    "Lore.md"
   ]
 }
