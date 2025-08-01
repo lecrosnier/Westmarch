@@ -11,14 +11,17 @@
             "id": "835a849112e92fae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Factions.md",
-                "mode": "source",
-                "source": false
+                "file": "Interations.canvas",
+                "viewState": {
+                  "x": -83.13134325981129,
+                  "y": -421.6162053537369,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Factions"
+              "icon": "lucide-layout-dashboard",
+              "title": "Interations"
             }
           }
         ]
@@ -170,15 +173,19 @@
   },
   "active": "835a849112e92fae",
   "lastOpenFiles": [
+    "Factions.md",
+    "Interations.canvas",
+    "Lore.md",
     "Carte.png",
-    "Carte.md",
+    "Westmarch.canvas",
+    "Zone/Aventure.md",
+    "Zone/Char 1.md",
     "Règle Hexploration.md",
+    "Règles.md",
+    "Welcome.md",
+    "Carte.md",
     "images/Pasted image 20250801143839.png",
     "images",
-    "Factions.md",
-    "Lore.md",
-    "Westmarch.canvas",
-    "Règles.md",
     "README.md"
   ]
 }

@@ -32,7 +32,7 @@
 
 - Le Village sans enfants
 	- Les enfants sont enfermés dans des cages
-	- ils sont fous
+	- ils sont fous, ne parlent plus, poussent des hurlements d'animaux
 	- Malédiction d'échange d'âme
 	- Résolution : 
 		- Poupées à l’effigie des enfant dans la hutte de la guenaude
@@ -90,20 +90,32 @@
 
 Idées de pièges : 
 - Pédiluve d'eau bénite
-- Petits 
+- Petits golems sur roue/sphère (inspiration Dwemmer)
 
 
-# La tribu de gobelins
+# La tribu de gobelins & le Dragon
+
 - les shamans lancent des malédictions liées aux couleurs
-- par ex couleur rouge brûle. 
+- par ex 
+	- couleur rouge brûle. 
+	- le violet permet de se téléporter
+	- le orange colle
+	- le bleu rend invisible
+	- le blanc créé un lien mental
+
 - stratégie de guerrilla liée à la peinture
 
-- Leur dieu est un dragon
-- Les gobelins ont créé un culte autour de lui
+=> La tribu
+- très désorganisée
+- Leur dieu est un dragon **Doré**
+- Les gobelins ont créé un culte autour de lui car il a les plus belles couleurs
 - ils le couvrent de cadeau
 
+Le dragon
+- Est le rejeton du gardien du palais des nuages
 
-# Les Guides
+# Factions indépendantes
+## Les Guides
 
 - Souris sentientes
 - Chevaliers minuscules armés d'aiguilles et de boutons
