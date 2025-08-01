@@ -30,21 +30,45 @@
 - cherche des noises à la cour d'été
 - communautés sous son joug
 
-Ex : 
 - Le Village sans enfants
 	- Les enfants sont enfermés dans des cages
 	- ils sont fous
 	- Malédiction d'échange d'âme
 	- Résolution : 
-		- Poupées à l’effigie des enfant
+		- Poupées à l’effigie des enfant dans la hutte de la guenaude
 		- Il faut trouver et brûler la cache de la guenaude
+		- une mère a vendu un de ses enfants pour en sauver un autre
+			- mère "malade pendant plusieurs mois"
+			- grossesse cachée. Elle a donné le nouveau né pour sauver le plus vieux
+			- elle seule sait que brûler les effigies sauve les enfants
+			- **enquête à faire**
+			
+		- **Solution**
+			- brûler la maison de la guenaude
+			- la hutte se déterre et part en courant s'éteindre 
+
 - La maison abandonnée
 	- Un Skulk habite la demeure
 	- échange des peaux de bêtes contre bougies et vivres
-	- invisibilité permanente
+	- Invisibilité permanente
 
 ![[Pasted image 20250801143839.png]]
 
+- Les créatures du marais
+	- Aberrations :
+		- Hybride échassier / cerf / grenouille
+		- Cerf carnassier avec mâchoire de serpent
+		- Moustiques géants qui rodent autour de carcasses exsangues
+		- Nid d'araignées 
+			- format ballon de foot 
+			- à abdomen avec visage d'enfant qui appellent à l'aide
+			- La maman n'est pas loin (et elle ne fait pas la taille d'un ballon de foot)...
+
+- Village des Kenkus
+	- village de pêcheurs des marais
+	- vendent 
+		- des grillades de grenouille
+		- des peaux de batracien résistantes au poison
 # Le nécromancien
 
 - Une grande prêtresse des dieux Loyaux cherche à déterrer un artefact ancien
@@ -66,7 +90,7 @@ Ex :
 
 Idées de pièges : 
 - Pédiluve d'eau bénite
-- 
+- Petits 
 
 
 # La tribu de gobelins
