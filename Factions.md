@@ -32,8 +32,18 @@
 
 Ex : 
 - Le Village sans enfants
-	- L’âme des enfants est échangé avec l’âme d'animaux en cage.
-	- Le sortilège est maintenu avec des poupée type vaudou.
+	- Les enfants sont enfermés dans des cages
+	- ils sont fous
+	- Malédiction d'échange d'âme
+	- Résolution : 
+		- Poupées à l’effigie des enfant
+		- Il faut trouver et brûler la cache de la guenaude
+- La maison abandonnée
+	- Un Skulk habite la demeure
+	- échange des peaux de bêtes contre bougies et vivres
+	- invisibilité permanente
+
+![[Pasted image 20250801143839.png]]
 
 # Le nécromancien
 
