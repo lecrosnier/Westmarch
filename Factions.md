@@ -32,8 +32,8 @@
 
 Ex : 
 - Le Village sans enfants
-	- Les enfants sont enfermés dans des cages
-	- ils sont fous
+	- L’âme des enfants est échangé avec l’âme d'animaux en cage.
+	- Le sortilège est maintenu avec des poupée type vaudou.
 
 # Le nécromancien
 
