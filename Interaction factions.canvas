@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"89856201d069592b","type":"text","text":"Les Fey de la forêt","x":-660,"y":-160,"width":250,"height":60,"color":"6"},
-		{"id":"c8e29db0ae571afe","type":"text","text":"Les indépendantistes","x":120,"y":-160,"width":250,"height":60,"color":"#1bd027"},
 		{"id":"1fb8656292058669","type":"text","text":"Les gobelins et le Dragon","x":-660,"y":-550,"width":250,"height":60,"color":"5"},
 		{"id":"9bd26447b266849e","type":"text","text":"La Guenaude","x":-260,"y":-920,"width":250,"height":60,"color":"#2213ec"},
-		{"id":"4e82d8a6c6075394","type":"text","text":"La prêtresse et le nécromancien","x":120,"y":-660,"width":250,"height":60,"color":"#bc17de"}
+		{"id":"4e82d8a6c6075394","type":"text","text":"La prêtresse et le nécromancien","x":120,"y":-660,"width":250,"height":60,"color":"#bc17de"},
+		{"id":"c8e29db0ae571afe","type":"text","text":"Les indépendantistes","x":120,"y":-190,"width":250,"height":60,"color":"#1bd027"}
 	],
 	"edges":[
 		{"id":"2aa34e2164c6b7b0","fromNode":"89856201d069592b","fromSide":"right","toNode":"c8e29db0ae571afe","toSide":"left","color":"1","label":"Accord pour cacher la base"},
@@ -13,6 +13,11 @@
 		{"id":"4d3fee260515039a","fromNode":"4e82d8a6c6075394","fromSide":"right","toNode":"c8e29db0ae571afe","toSide":"right","color":"4","label":"Donne des armes"},
 		{"id":"717125e427a3c609","fromNode":"4e82d8a6c6075394","fromSide":"top","toNode":"9bd26447b266849e","toSide":"right","color":"1","label":"Limite ses activités au Marais"},
 		{"id":"0c8bcf411c515e77","fromNode":"c8e29db0ae571afe","fromSide":"bottom","toNode":"89856201d069592b","toSide":"bottom","color":"4","label":"Fournissent des prisonniers"},
-		{"id":"93dfeaea2bc4b67e","fromNode":"9bd26447b266849e","fromSide":"left","toNode":"1fb8656292058669","toSide":"top","color":"1","label":"Pacte signé entre Guenaude et Gobelins\n\nElle leur contrôle la zone qui fournit les ingrédients de leur magie"}
+		{"id":"93dfeaea2bc4b67e","fromNode":"9bd26447b266849e","fromSide":"left","toNode":"1fb8656292058669","toSide":"top","color":"1","label":"Pacte signé entre Guenaude et Gobelins\n\nElle leur contrôle la zone qui fournit les ingrédients de leur magie"},
+		{"id":"1832021e06f859ee","fromNode":"9bd26447b266849e","fromSide":"bottom","toNode":"89856201d069592b","toSide":"top"},
+		{"id":"9e2d8fba67df9846","fromNode":"9bd26447b266849e","fromSide":"bottom","toNode":"c8e29db0ae571afe","toSide":"top"},
+		{"id":"7594996cbe3bc1b0","fromNode":"4e82d8a6c6075394","fromSide":"left","toNode":"1fb8656292058669","toSide":"right","color":"6","label":"Rivalité entre Gobelins et Nécromancien "},
+		{"id":"30a0e83b116783a5","fromNode":"4e82d8a6c6075394","fromSide":"left","toNode":"89856201d069592b","toSide":"right"},
+		{"id":"a540215c3a13e5e5","fromNode":"1fb8656292058669","fromSide":"bottom","toNode":"c8e29db0ae571afe","toSide":"top"}
 	]
 }

@@ -11,17 +11,14 @@
             "id": "835a849112e92fae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Interations.canvas",
-                "viewState": {
-                  "x": -83.13134325981129,
-                  "y": -421.6162053537369,
-                  "zoom": 0
-                }
+                "file": "Factions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Interations"
+              "icon": "lucide-file",
+              "title": "Factions"
             }
           },
           {
@@ -30,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga séance/Liste joueur.euse.md",
+                "file": "Ressources biblio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liste joueur.euse"
+              "title": "Ressources biblio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,22 +182,22 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6842c4903fad6df4",
+  "active": "835a849112e92fae",
   "lastOpenFiles": [
-    "Factions.md",
+    "Carte.png",
     "Carte.md",
+    "Règles Hexploration.md",
+    "Interaction factions.canvas",
+    "Ressources biblio.md",
+    "Westmarch.canvas",
+    "Lore.md",
+    "Règles.md",
+    "Factions.md",
+    "Zone/Aventure.md",
     "Orga séance/Liste joueur.euse.md",
     "Sans titre.md",
-    "Ressources biblio.md",
     "Orga séance",
-    "Interations.canvas",
-    "Lore.md",
-    "Carte.png",
-    "Westmarch.canvas",
-    "Zone/Aventure.md",
     "Zone/Char 1.md",
-    "Règle Hexploration.md",
-    "Règles.md",
     "Welcome.md",
     "images/Pasted image 20250801143839.png",
     "images",
