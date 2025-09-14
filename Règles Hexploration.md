@@ -22,11 +22,11 @@ Les PJ peuvent voyager 3 jours sans ration puis -1 CONST dmg par jour.
 **Niveau de danger des hexagones :** 
 Lancer 1D6 par hex 
 
-| sur       | pas de jet D6    |
-| --------- | ---------------- |
-| peu sur   | 1 sur D6         |
-| risqué    | 1 et 2 sur D6    |
-| meurtrier | 1, 2 et 3 sur D6 |
+| sur       | pas de jet D6                |
+| --------- | ---------------------------- |
+| peu sur   | 1 sur D6 = tabl renc         |
+| risqué    | 1 et 2 sur D6 = tabl renc    |
+| meurtrier | 1, 2 et 3 sur D6 = tabl renc |
 
 **Voyage rapide :**
 Possible sur hexagones déjà parcouru ou sur chemin dégagé.
