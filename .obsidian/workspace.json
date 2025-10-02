@@ -1,57 +1,39 @@
 {
   "main": {
-    "id": "6cf96f1996a5426f",
+    "id": "c82de2899df0a530",
     "type": "split",
     "children": [
       {
-        "id": "fa86bc485795e3fa",
+        "id": "3d5f5cafea0e91e9",
         "type": "tabs",
         "children": [
           {
-            "id": "835a849112e92fae",
+            "id": "2f48e4afefb95d7a",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Carte.png"
+                "file": "Bestiaire/Loup.png"
               },
               "icon": "lucide-image",
-              "title": "Carte"
-            }
-          },
-          {
-            "id": "b5b37ccabf0f6497",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Zone/Les villes.canvas",
-                "viewState": {
-                  "x": -397.65373755441703,
-                  "y": 48.66901895376798,
-                  "zoom": -0.4575144156430065
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Les villes"
+              "title": "Loup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c7e5e062b2d2bf3e",
+    "id": "f30a1e16e5c4f61c",
     "type": "split",
     "children": [
       {
-        "id": "58e96187bc1c3f0a",
+        "id": "a383aee74abeac22",
         "type": "tabs",
         "children": [
           {
-            "id": "ef658b81a153e599",
+            "id": "536dc8624b598707",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,11 +42,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
-            "id": "710eb1defc2c092e",
+            "id": "853697ebe7a6cb61",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,17 +59,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
-            "id": "ab10ca3e846aaab3",
+            "id": "428eadc5c4935c9f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Signet"
+              "title": "Signets"
             }
           }
         ]
@@ -97,20 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "00d5f2f6b129e5ef",
+    "id": "f941462951e44112",
     "type": "split",
     "children": [
       {
-        "id": "e422ea5213d9fd5a",
+        "id": "fb74adbc0500dfdc",
         "type": "tabs",
         "children": [
           {
-            "id": "a508ff02b9b5f30b",
+            "id": "e7592fe87ac2c816",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions.md",
+                "file": "Bestiaire/Loup.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +102,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Factions"
+              "title": "Rétrolien pour Loup"
             }
           },
           {
-            "id": "c07f35461c787481",
+            "id": "e5d3402dc2c19450",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions.md",
+                "file": "Bestiaire/Loup.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Factions"
+              "title": "Liens sortants de Loup"
             }
           },
           {
-            "id": "b2079ebb923ea67b",
+            "id": "672cf8d9f3e13b7b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +135,18 @@
             }
           },
           {
-            "id": "8ad3dd4ba362259f",
+            "id": "09934d78665ff14c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions.md",
+                "file": "Bestiaire/Loup.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Factions"
+              "title": "Plan de Loup"
             }
           }
         ]
@@ -176,48 +158,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false
     }
   },
-  "active": "b5b37ccabf0f6497",
+  "active": "536dc8624b598707",
   "lastOpenFiles": [
-    "Zone/Cendregarde, la jumelle des terres.md",
-    "Zone/Rencontres.md",
-    "Zone/Contexte.md",
-    "Lore.md",
-    "Zone/Les villes.canvas",
     "Zone/Port-Néréide, la ville portuaire.md",
-    "Interaction factions.canvas",
+    "Zone/Les villes.canvas",
     "Zone/Haute-Faille.md",
-    "Carte.png",
-    "Factions.md",
+    "Zone/Contexte.md",
+    "Zone/Cendregarde, la jumelle des terres.md",
     "Bestiaire/Hommes-poissons.png",
-    "Ressources biblio.md",
-    "Bestiaire/Dragon2.png",
-    "Bestiaire/Profond.png",
-    "Orga séance/Liste joueur.euse.md",
-    "Règles Hexploration.md",
-    "Westmarch.canvas",
-    "Bestiaire/Araignée Géante.png",
     "Bestiaire/Evanescent.png",
-    "Bestiaire/Leprechaun.png",
+    "Bestiaire/Araignée Géante.png",
     "Bestiaire/Marchand errant.png",
-    "Bestiaire/Zombie.png",
-    "Bestiaire/Wyverne.png",
-    "Bestiaire",
-    "Carte.md",
-    "Règles.md",
-    "README.md",
-    "Sans titre.md",
-    "Orga séance",
-    "Zone/Char 1.md",
-    "Welcome.md",
-    "images"
+    "Bestiaire/Licorne.png",
+    "Bestiaire/Goule.png",
+    "Bestiaire/Grenouille.png",
+    "Bestiaire/Dragon2.png",
+    "Bestiaire/Areignée Géante.png"
   ]
 }
