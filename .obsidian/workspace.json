@@ -11,14 +11,12 @@
             "id": "835a849112e92fae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Zone/Rencontres.md",
-                "mode": "source",
-                "source": false
+                "file": "Carte.png"
               },
-              "icon": "lucide-file",
-              "title": "Rencontres"
+              "icon": "lucide-image",
+              "title": "Carte"
             }
           }
         ]
@@ -169,11 +167,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef658b81a153e599",
+  "active": "835a849112e92fae",
   "lastOpenFiles": [
-    "Règles Hexploration.md",
     "Zone/Rencontres.md",
     "Zone/Aventure.md",
+    "Règles Hexploration.md",
     "Interaction factions.canvas",
     "Carte.md",
     "Lore.md",
