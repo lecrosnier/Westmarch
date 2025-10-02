@@ -52,7 +52,7 @@
 	- échange des peaux de bêtes contre bougies et vivres
 	- Invisibilité permanente
 
-![[Pasted image 20250801143839.png]]
+![[Evanescent.png]]
 
 - Les créatures du marais
 	- Aberrations :

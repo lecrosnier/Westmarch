@@ -13,20 +13,31 @@
             "state": {
               "type": "image",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Carte.png"
               },
               "icon": "lucide-image",
               "title": "Carte"
-=======
-                "file": "Bestiaire/Grenouille.png"
+            }
+          },
+          {
+            "id": "b5b37ccabf0f6497",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Zone/Les villes.canvas",
+                "viewState": {
+                  "x": -397.65373755441703,
+                  "y": 48.66901895376798,
+                  "zoom": -0.4575144156430065
+                }
               },
-              "icon": "lucide-image",
-              "title": "Grenouille"
->>>>>>> Stashed changes
+              "icon": "lucide-layout-dashboard",
+              "title": "Les villes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,47 +185,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef658b81a153e599",
+  "active": "b5b37ccabf0f6497",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
+    "Zone/Cendregarde, la jumelle des terres.md",
     "Zone/Rencontres.md",
-    "Zone/Aventure.md",
-    "Règles Hexploration.md",
-    "Interaction factions.canvas",
-    "Carte.md",
+    "Zone/Contexte.md",
     "Lore.md",
+    "Zone/Les villes.canvas",
+    "Zone/Port-Néréide, la ville portuaire.md",
+    "Interaction factions.canvas",
+    "Zone/Haute-Faille.md",
     "Carte.png",
-    "Westmarch.canvas",
-    "Règles.md",
-    "README.md",
     "Factions.md",
-=======
-    "Bestiaire/Grenouille.png",
-    "Bestiaire/Bandit.png",
-    "Bestiaire/Dragon 1.png",
-    "Bestiaire/Fée.png",
-    "Bestiaire/Goblin.png",
-    "Bestiaire/Loup.png",
-    "Bestiaire/Zombie.png",
-    "Bestiaire/Dragon2.png",
-    "Bestiaire/Wyverne.png",
-    "Bestiaire/Feu follet.png",
-    "Bestiaire/Epouvantail.png",
-    "Bestiaire",
-    "SD",
-    "Carte.md",
-    "Règles Hexploration.md",
-    "MapWMv4.hexfriend",
-    "Factions.md",
-    "Interaction factions.canvas",
-    "Lore.md",
-    "Westmarch.canvas",
-    "Règles.md",
-    "README.md",
-    "Zone/Aventure.md",
->>>>>>> Stashed changes
+    "Bestiaire/Hommes-poissons.png",
     "Ressources biblio.md",
+    "Bestiaire/Dragon2.png",
+    "Bestiaire/Profond.png",
     "Orga séance/Liste joueur.euse.md",
+    "Règles Hexploration.md",
+    "Westmarch.canvas",
+    "Bestiaire/Araignée Géante.png",
+    "Bestiaire/Evanescent.png",
+    "Bestiaire/Leprechaun.png",
+    "Bestiaire/Marchand errant.png",
+    "Bestiaire/Zombie.png",
+    "Bestiaire/Wyverne.png",
+    "Bestiaire",
+    "Carte.md",
+    "Règles.md",
+    "README.md",
     "Sans titre.md",
     "Orga séance",
     "Zone/Char 1.md",

@@ -1,6 +1,3 @@
-
-# Ville Principale  : Cendregarde
-
 **Colonie d'exploitation**
 
 Histoire : 
@@ -24,6 +21,7 @@ Histoire :
 	- Au coeur de la ville
 	- Abrite la garnison de soldats plus nombreuse que pour un village de cette taille habituellement
 	- 30mx30m
+	- Contient un comptoir d'échange pour les objets archéologiques et magiques
 
 - Périphérie
 	- Quelques champs modestes
@@ -41,20 +39,3 @@ Histoire :
 	- mais gère principalement l'entretien des armes et armures de la garnison
 
 - Bazar : ***Le Sou des Trois Clefs***
-	- 
-
-
-# Ville portuaire : Port-Néréide
-
-- Mandat par la métropole locale (conquistadors)
-	- gardent les gains locaux
-	- contrat d'exploitation/exploration
-- Zone d'échange
-	- Taverne + panneau des informations du monde
-
-# Infos générales
-
-- De plus en plus de trouble 
-	- Bandits -> problème nouveau
-	- Créatures locales
-	- Hommes poissons sur la côte

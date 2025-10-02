@@ -6,7 +6,6 @@ Très motivés
 - Pipou
 - Tom 
 Intéresser 
-- Louise (?)
 - Brice 
 - Thomas de Pipou
 
