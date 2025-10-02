@@ -1,12 +1,60 @@
 
-# 
+# Ville Principale  : Cendregarde
 
-- Guilde des aventuriers
-	
+**Colonie d'exploitation**
+
+Histoire : 
+- 10 ans grosso modo
+- Plusieurs enceintes de plus en plus grandes  successivement érigées
+- Dépendante l'import maritime
+- À une mauvaise récolte de la famine
+- Ville comptant principalement des soldats, qui gèrent certains commerces
+
+**Composée de :**
+
+- Enceinte
+	- Ceinte de palissades composée de pieux de 3m de haut
+	- Un chemin de ronde
+	- Quelques tours d'observation en rondins
+	- Une porte maçonnée avec une herse très lourde
+	- Impression de rusticité et de praticité
+	- Construite avec une économie de ressources
+
+- Fortin en pierre maçonnée
+	- Au coeur de la ville
+	- Abrite la garnison de soldats plus nombreuse que pour un village de cette taille habituellement
+	- 30mx30m
+
+- Périphérie
+	- Quelques champs modestes
+	- Faible rendement et région rude
+	- Hivers exécrables
+
+- Taverne : ***La Lanterne qui Chante***
+	- Discussion avec autres aventuriers
+	- Centralisation des rumeurs
+	- Le tavernier collecte les ragots
+
+- Forge : ***La Forge de Cendre***
+	- Tenue par un homme rustaud et court sur pates
+	- Peut fabriquer des elements sur commande, payés rubis sur ongle
+	- mais gère principalement l'entretien des armes et armures de la garnison
+
+- Bazar : ***Le Sou des Trois Clefs***
+	- 
+
+
+# Ville portuaire : Port-Néréide
+
 - Mandat par la métropole locale (conquistadors)
 	- gardent les gains locaux
 	- contrat d'exploitation/exploration
 - Zone d'échange
 	- Taverne + panneau des informations du monde
 
+# Infos générales
 
+- De plus en plus de trouble 
+	- Bandits -> problème nouveau
+	- Créatures locales
+	- Hommes poissons sur la côte

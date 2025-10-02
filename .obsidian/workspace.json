@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore.md",
+                "file": "Zone/Rencontres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore"
+              "title": "Rencontres"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -160,27 +160,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "835a849112e92fae",
+  "active": "ef658b81a153e599",
   "lastOpenFiles": [
-    "Westmarch.canvas",
     "Règles Hexploration.md",
+    "Zone/Rencontres.md",
+    "Zone/Aventure.md",
+    "Interaction factions.canvas",
+    "Carte.md",
+    "Lore.md",
+    "Carte.png",
+    "Westmarch.canvas",
     "Règles.md",
     "README.md",
-    "Lore.md",
-    "Interaction factions.canvas",
     "Factions.md",
-    "Carte.png",
-    "Carte.md",
-    "Zone/Aventure.md",
     "Ressources biblio.md",
     "Orga séance/Liste joueur.euse.md",
     "Sans titre.md",
