@@ -13,10 +13,17 @@
             "state": {
               "type": "image",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Carte.png"
               },
               "icon": "lucide-image",
               "title": "Carte"
+=======
+                "file": "Bestiaire/Grenouille.png"
+              },
+              "icon": "lucide-image",
+              "title": "Grenouille"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -167,8 +174,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "835a849112e92fae",
+  "active": "ef658b81a153e599",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Zone/Rencontres.md",
     "Zone/Aventure.md",
     "Règles Hexploration.md",
@@ -180,13 +188,37 @@
     "Règles.md",
     "README.md",
     "Factions.md",
+=======
+    "Bestiaire/Grenouille.png",
+    "Bestiaire/Bandit.png",
+    "Bestiaire/Dragon 1.png",
+    "Bestiaire/Fée.png",
+    "Bestiaire/Goblin.png",
+    "Bestiaire/Loup.png",
+    "Bestiaire/Zombie.png",
+    "Bestiaire/Dragon2.png",
+    "Bestiaire/Wyverne.png",
+    "Bestiaire/Feu follet.png",
+    "Bestiaire/Epouvantail.png",
+    "Bestiaire",
+    "SD",
+    "Carte.md",
+    "Règles Hexploration.md",
+    "MapWMv4.hexfriend",
+    "Factions.md",
+    "Interaction factions.canvas",
+    "Lore.md",
+    "Westmarch.canvas",
+    "Règles.md",
+    "README.md",
+    "Zone/Aventure.md",
+>>>>>>> Stashed changes
     "Ressources biblio.md",
     "Orga séance/Liste joueur.euse.md",
     "Sans titre.md",
     "Orga séance",
     "Zone/Char 1.md",
     "Welcome.md",
-    "images/Pasted image 20250801143839.png",
     "images"
   ]
 }

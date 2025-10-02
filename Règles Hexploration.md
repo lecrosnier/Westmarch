@@ -85,3 +85,10 @@ DD12 si pas de feu désa.
 | Prédire             | INT/SAG | Connais la météo pour les 3 jours               |
 
 
+**Retraite** 
+
+Idée face à une session trop longue et difficile.
+
+Les joueurs peuvent décider à l'unanimité de **se Retirer**. 
+Tous les personnages vivants doivent être hors combat et capables d'être déplacés. 
+_Ils fuient vers la sécurité - à un coût_. Chacun arrive avec 1PV, avec tous les consommables, sorts et baguettes épuisés. Chacun lance un dé au hasard pour qu'un objet de l'inventaire soit endommagé ou perdu. Le temps nécessaire est décidé par le MJ.
