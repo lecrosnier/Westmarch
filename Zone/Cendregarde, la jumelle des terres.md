@@ -7,8 +7,37 @@ Histoire :
 - À une mauvaise récolte de la famine
 - Ville comptant principalement des soldats, qui gèrent certains commerces
 
-**Composée de :**
+**Dirigée par :**
+- Un Tribun : **Octavia Severina**
+	- jeune sénatrice 
+		- prend les décisions militaires
+		- gère les flux de marchandises et cargaisons
+	- intelligente
+	- pétrie d'ambition
+	- cherche à revenir à la capitale auréolée de réussite
+	- grande, mince
+	- brune aux cheveux bouclés, yeux noirs
+	- cernée et de mauvaise humeur, à toute heure du jour et de la nuit
 
+
+Assistée d'un **Préfet :**
+- **Junius Priscus**
+	- dirige les soldats
+	- bras militaire du tribun
+	- plus haut officier avant elle
+	- coordonne la garnison
+
+**Habitée par :**
+- Bucherons
+	- Scierie
+- Mineurs
+	- de charbon et de fer
+	- Fonderie
+
+- Anciens criminels absous contre exil
+- Civils pauvres en recherche de gains
+
+**Composée de :**
 - Enceinte
 	- Ceinte de palissades composée de pieux de 3m de haut
 	- Un chemin de ronde

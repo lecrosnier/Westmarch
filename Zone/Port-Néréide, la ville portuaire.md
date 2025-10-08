@@ -15,3 +15,8 @@ Histoire :
 - Récupère des reliques et objets des terres par caravane pour les réexpédier à la capitale
 
 **Composée de :**  
+- Un port en eau profonde
+- une enceinte lourdement fortifiée
+- une caserne dans un fortin, hébergeant la garnison
+- principalement des soldats dans la ville, quelques voyageurs en transit
+- un caravansérail sur la place du port
