@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Bestiaire/Loup.png"
+                "file": "Carte.png"
               },
               "icon": "lucide-image",
-              "title": "Loup"
+              "title": "Carte"
             }
           }
         ]
@@ -167,11 +167,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "536dc8624b598707",
+  "active": "2f48e4afefb95d7a",
   "lastOpenFiles": [
-    "Zone/Port-Néréide, la ville portuaire.md",
+    "Bestiaire/Griffon.md",
+    "Carte.md",
+    "Carte.png",
+    "Lore.md",
+    "Interaction factions.canvas",
+    "Image collée.png",
     "Zone/Les villes.canvas",
     "Zone/Haute-Faille.md",
+    "Bestiaire/Loup.png",
+    "Zone/Port-Néréide, la ville portuaire.md",
     "Zone/Contexte.md",
     "Zone/Cendregarde, la jumelle des terres.md",
     "Bestiaire/Hommes-poissons.png",
@@ -180,8 +187,6 @@
     "Bestiaire/Marchand errant.png",
     "Bestiaire/Licorne.png",
     "Bestiaire/Goule.png",
-    "Bestiaire/Grenouille.png",
-    "Bestiaire/Dragon2.png",
-    "Bestiaire/Areignée Géante.png"
+    "Bestiaire/Grenouille.png"
   ]
 }
