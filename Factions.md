@@ -6,17 +6,20 @@
 
 
 # Les Indépendantistes
-- chef indépendantistes
-- en alliance officielle avec les prêtre hommes poissons
-- essayent de se poignarder dans le dos
+- chef indépendantistes se cachait dans des grottes costières quand il a été soumis psychiquement par un Aboleth. 
+- l'Aboleth prend peu a peu le contrôle des indépendantistes en se fesant apporter des nouveau "fidèles" qu'il soumet ou en les transformant en Profond. 
+- Le chef sous contrôle annonce l'alliance avec les hommes poissons sous couvert de vénérer un dieu de l'océan. 
 
 **Hommes poissons**
-- veulent réveiller leur Dieu endormi (Kraken ou Léviathan)
-- gardent les humains dans le noir quant à la destruction à venir
+- veulent libérer leur Dieu (Aboleth) et lui créer un passage vers la Mer Intérieur. 
+- tente de prendre lentement le contrôle des indépendantistes sans se faire découvrir.  
+- L'Aboleth peut maudire un humain pour le transformer sous une vingtaine de jour en Profond. Les Indépendantiste récalcitrant subissent se destin; 
 
-**Indépendantistes humains**
+
+**Indépendantistes humains encore libre**
 - veulent se couper de la capitale et garder la colonie
-- veulent évincer les hommes poisson après le cataclysme
+- veulent évincer les hommes poisson depuis qu'ils ont des doutes sur eux. 
+- Considèrent que 
 
 
 # Les Fey de la forêt

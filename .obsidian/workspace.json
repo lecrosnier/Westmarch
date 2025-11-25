@@ -13,30 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zone/Rencontres.md",
+                "file": "Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rencontres"
+              "title": "Factions"
             }
           },
           {
             "id": "83e2403e43bed0c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cartes avec noms région.md",
-                "mode": "source",
-                "source": false
+                "file": "Bestiaire/Marchand errant.png"
               },
-              "icon": "lucide-file",
-              "title": "Cartes avec noms région"
+              "icon": "lucide-image",
+              "title": "Marchand errant"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,20 +181,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "83e2403e43bed0c3",
+  "active": "536dc8624b598707",
   "lastOpenFiles": [
-    "Capture d’écran du 2025-11-02 20-59-19 1.png",
-    "Capture d’écran du 2025-11-02 20-59-19.png",
-    "Zone/Rencontres.md",
-    "Cartes avec noms région.md",
+    "Zone/Les villes.canvas",
     "Zone/Port-Néréide, la ville portuaire.md",
     "Carte.png",
-    "Bestiaire/Griffon.md",
     "Carte.md",
+    "Zone/Rencontres.md",
+    "Bestiaire/Marchand errant.png",
+    "Cartes avec noms région.md",
+    "Capture d’écran du 2025-11-02 20-59-19 1.png",
+    "Capture d’écran du 2025-11-02 20-59-19.png",
+    "Bestiaire/Griffon.md",
     "Lore.md",
     "Interaction factions.canvas",
     "Image collée.png",
-    "Zone/Les villes.canvas",
     "Zone/Haute-Faille.md",
     "Bestiaire/Loup.png",
     "Zone/Contexte.md",
@@ -205,8 +203,6 @@
     "Bestiaire/Hommes-poissons.png",
     "Bestiaire/Evanescent.png",
     "Bestiaire/Araignée Géante.png",
-    "Bestiaire/Marchand errant.png",
-    "Bestiaire/Licorne.png",
-    "Bestiaire/Goule.png"
+    "Bestiaire/Licorne.png"
   ]
 }
