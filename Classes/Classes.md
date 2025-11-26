@@ -1,0 +1,18 @@
+Classes de base
+- Guerrier
+- Prêtre
+- Voleur
+- Magicien
+- Rôdeur
+- Barde
+
+Classes spécifiques
+- Sorcière
+- Ensorceleur
+- Gladiateur
+- Pilleur de tombes
+- Paria (mutant)
+- Duelliste
+- Moine
+- Nécromancien
+- Paladin
