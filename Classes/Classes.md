@@ -1,5 +1,5 @@
 Classes de base
-- Guerrier
+- Guerrier 
 - Prêtre
 - Voleur
 - Magicien
@@ -16,3 +16,4 @@ Classes spécifiques
 - Moine
 - Nécromancien
 - Paladin
+- A discuter Assassin (Raz Godai)

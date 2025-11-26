@@ -22,18 +22,21 @@
             }
           },
           {
-            "id": "83e2403e43bed0c3",
+            "id": "d28586eb078439e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bestiaire/Marchand errant.png"
+                "file": "Zone/Haute-Faille.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Marchand errant"
+              "icon": "lucide-file",
+              "title": "Haute-Faille"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,25 +184,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "536dc8624b598707",
+  "active": "d28586eb078439e7",
   "lastOpenFiles": [
-    "Zone/Les villes.canvas",
-    "Zone/Port-Néréide, la ville portuaire.md",
-    "Carte.png",
-    "Carte.md",
-    "Zone/Rencontres.md",
-    "Bestiaire/Marchand errant.png",
-    "Cartes avec noms région.md",
-    "Capture d’écran du 2025-11-02 20-59-19 1.png",
-    "Capture d’écran du 2025-11-02 20-59-19.png",
-    "Bestiaire/Griffon.md",
-    "Lore.md",
-    "Interaction factions.canvas",
-    "Image collée.png",
-    "Zone/Haute-Faille.md",
-    "Bestiaire/Loup.png",
-    "Zone/Contexte.md",
     "Zone/Cendregarde, la jumelle des terres.md",
+    "Zone/Les villes.canvas",
+    "Capture d’écran du 2025-11-02 20-59-19 1.png",
+    "Carte.md",
+    "Zone/Haute-Faille.md",
+    "Zone/Contexte.md",
+    "Règles Hexploration.md",
+    "Ressources biblio.md",
+    "Classes/Classes.md",
+    "Classes.md",
+    "Zone/Table des zones.md",
+    "Orga séance/Liste joueur.euse.md",
+    "Sans titre 1.md",
+    "Sans titre.md",
+    "Règles.md",
+    "Zone/Port-Néréide, la ville portuaire.md",
+    "Zone/Rencontres.md",
+    "Cartes avec noms région.md",
+    "Factions.md",
+    "Interaction factions.canvas",
+    "Lore.md",
+    "README.md",
+    "Classes",
+    "Capture d’écran du 2025-11-02 20-59-19.png",
+    "Carte.png",
+    "Bestiaire/Marchand errant.png",
+    "Bestiaire/Griffon.md",
+    "Image collée.png",
+    "Bestiaire/Loup.png",
     "Bestiaire/Hommes-poissons.png",
     "Bestiaire/Evanescent.png",
     "Bestiaire/Araignée Géante.png",

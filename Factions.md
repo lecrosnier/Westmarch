@@ -6,26 +6,29 @@
 
 
 # Les Indépendantistes
-- chef indépendantistes se cachait dans des grottes costières quand il a été soumis psychiquement par un Aboleth. 
-- l'Aboleth prend peu a peu le contrôle des indépendantistes en se fesant apporter des nouveau "fidèles" qu'il soumet ou en les transformant en Profond. 
-- Le chef sous contrôle annonce l'alliance avec les hommes poissons sous couvert de vénérer un dieu de l'océan. 
+- Chef indépendantistes (style pirates) explorait des grottes sur la cotes quand il a été soumis psychiquement par un Aboleth. 
+- l'Aboleth prend peu a peu le contrôle des indépendantistes en se faisant apporter des nouveau "fidèles" qu'il soumet ou transforme les récalcitrant en Profond. 
+- Le chef sous contrôle annonce l'alliance avec les hommes poissons sous couvert de but commun et de vénérer un dieu de l'océan. 
 
 **Hommes poissons**
 - veulent libérer leur Dieu (Aboleth) et lui créer un passage vers la Mer Intérieur. 
 - tente de prendre lentement le contrôle des indépendantistes sans se faire découvrir.  
-- L'Aboleth peut maudire un humain pour le transformer sous une vingtaine de jour en Profond. Les Indépendantiste récalcitrant subissent se destin; 
+- L'Aboleth peut maudire un humain pour le transformer sous une vingtaine de jour en Profond. Les Indépendantiste récalcitrant subissent ce destin.
 
 
 **Indépendantistes humains encore libre**
-- veulent se couper de la capitale et garder la colonie
+- veulent se couper de la capitale et garder la colonie comme "pays libre" style république pirate. 
 - veulent évincer les hommes poisson depuis qu'ils ont des doutes sur eux. 
-- Considèrent que 
+- Commence
 
 
 # Les Fey de la forêt
 
 - La forêt change enter jour et nuit
 - alternance entre cour d'été et cour d'hiver jour/nuit
+- Le jour, on y rencontre des soutient de la cours d'été et la nuit des soutient de la cour d'hiver. 
+- Cour d'été : joueur, inconséquent, aime être divertit, manipulateur, mauvaise blague. Devienne véritablement hostile si on les agresses, les insultes. 
+- Cours d'hiver :  hostile et veulent faire peur. Chasse les humains "leur" territoire. Paradoxalement mentent moins que la cour d'été. 
 - 
 
 # La Guenaude des marais
@@ -67,8 +70,8 @@
 			- à abdomen avec visage d'enfant qui appellent à l'aide
 			- La maman n'est pas loin (et elle ne fait pas la taille d'un ballon de foot)...
 
-- Village des Kenkus
-	- village de pêcheurs des marais
+- Village des Hommes Lézard
+	- village flottant. 
 	- vendent 
 		- des grillades de grenouille
 		- des peaux de batracien résistantes au poison
@@ -115,7 +118,8 @@ Idées de pièges :
 - ils le couvrent de cadeau
 
 Le dragon
-- Est le rejeton du gardien du palais des nuages
+- Est le rejeton du gardien du palais des nuages. 
+- Veut : récupérer le plus de trésor possible (un type d'objet précieux préféré à déterminer)
 
 # Factions indépendantes
 ## Les Guides

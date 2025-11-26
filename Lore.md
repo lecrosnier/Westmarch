@@ -30,7 +30,7 @@ les extérieurs => les dieux
 - Guerre cataclysmique entre dieux du chaos et dieux de la loi
 - Fey ont "arrêté" la guerre
 	- mis sur la touche les dieux oubliés?
-	- les humains ont oublié la guerre, signé le pacte, et oublié le pacte
+	- les humains ont oublié la fin de la guerre, signé le pacte, et oublié le pacte
 	- fin de la guerre
 	- les Fey contrôlent désormais certains territoires
 
