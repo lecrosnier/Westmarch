@@ -8,7 +8,7 @@ Histoire :
 - Ville comptant principalement des soldats, qui gèrent certains commerces
 
 **Dirigée par :**
-- Un Tribun : **Octavia Severina**
+- Un Tribun : **Isadora Ekion**
 	- jeune sénatrice 
 		- prend les décisions militaires
 		- gère les flux de marchandises et cargaisons
@@ -21,7 +21,7 @@ Histoire :
 
 
 Assistée d'un **Préfet :**
-- **Junius Priscus**
+- **Junius Silkos
 	- dirige les soldats
 	- bras militaire du tribun
 	- plus haut officier avant elle

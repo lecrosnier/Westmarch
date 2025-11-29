@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions.md",
+                "file": "Zone/Table des zones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Table des zones"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zone/Haute-Faille.md",
+                "file": "Cartes avec noms région.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haute-Faille"
+              "title": "Cartes avec noms région"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,9 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "d28586eb078439e7",
+  "active": "2f48e4afefb95d7a",
   "lastOpenFiles": [
+    "Factions.md",
+    "Zone/Table des zones.md",
+    "Cartes avec noms région.md",
+    "Carte.png",
     "Zone/Cendregarde, la jumelle des terres.md",
+    "Zone/Rencontres.md",
+    "Sans titre 1.md",
+    "Sans titre.md",
     "Zone/Les villes.canvas",
     "Capture d’écran du 2025-11-02 20-59-19 1.png",
     "Carte.md",
@@ -196,21 +202,14 @@
     "Ressources biblio.md",
     "Classes/Classes.md",
     "Classes.md",
-    "Zone/Table des zones.md",
     "Orga séance/Liste joueur.euse.md",
-    "Sans titre 1.md",
-    "Sans titre.md",
     "Règles.md",
     "Zone/Port-Néréide, la ville portuaire.md",
-    "Zone/Rencontres.md",
-    "Cartes avec noms région.md",
-    "Factions.md",
     "Interaction factions.canvas",
     "Lore.md",
     "README.md",
     "Classes",
     "Capture d’écran du 2025-11-02 20-59-19.png",
-    "Carte.png",
     "Bestiaire/Marchand errant.png",
     "Bestiaire/Griffon.md",
     "Image collée.png",

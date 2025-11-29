@@ -1,18 +1,18 @@
 
-| 2d6 | Rencontre                |                               |                            |                     |                          |                         |
-| --- | :----------------------- | :---------------------------- | :------------------------- | :------------------ | :----------------------- | :---------------------- |
-|     | Zone Indépentiste        | Zone Nécro                    | Zone Gobelin               | Zone Fey Jour       | Zone Fey Nuit            | Zone Guenaude           |
-| 2   | 2D4 Sirène               | Golem de Chaire ou Nécrophage | Dragon                     | Licorne             | L'Homme Saule            |                         |
-| 3   | 1D6 Adorateur de secte   | 2D4 Goule                     | Chamane Gob + 3D6 Gobelins | Troll               | L'Homme Saule            | Serpent Géant           |
-| 4   | 2D6 Suhuagin             | 3D6 Zombies                   | 2D4 Worg + Gobe (cavalier) | 1D4 Dryade          | L'Homme Saule            | 1D4 Crocodile           |
-| 5   | 2D6 Loup                 | 2D6 Guêpes Vampire            | 2D6 Mille-Pates géants     | 1D4 Araignée Géante | 2D6 Champignon Violet    | 2D6 Sangsue Géante      |
-| 6   | 2D6 Bandit               | 3D4 squelettes                | 2D6 Gobelins               | 1D6 Fée             | 1D6 Feu Follet           | 1D6 Homme-Lézards       |
-| 7   | PNJ Amicaux              | PNJ Amicaux                   | PNJ Amicaux                | PNJ Amicaux         | PNJ Amicaux              |                         |
-| 8   | Lion                     | Rat Géant 3D6                 | 2D6 Loup                   | 2D4 Sanglier        | 2D4 Roncier (des marais) | 2D4 Grenouille Géante   |
-| 9   | 1D6 Guêpe Géante         | 2D4 squelettes                | 2D6 Chauve Souris géantes  | Lutin (Leprechaun)  | 2D6 Fée (agressive)      | 2D4 Pêcheurs des Marais |
-| 10  | Bandits en embuscade 3D6 | Ours                          | 3D6 Gobelins               | Sylvanien           | 1D4 Etrangleur           | Vase Grise              |
-| 11  | Wyvern                   | Wyvern                        | Wyvern                     | Wyvern              | Wyvern                   | Wyvern                  |
-| 12  | Dragon                   | Dragon                        | Dragon                     | Dragon              | Dragon                   | Dragon                  |
+| 2d6 | Rencontre                |                               |                            |                    |                          |                         |
+| --- | :----------------------- | :---------------------------- | :------------------------- | :----------------- | :----------------------- | :---------------------- |
+|     | Zone Indépentiste        | Zone Nécro                    | Zone Gobelin               | Zone Fey Jour      | Zone Fey Nuit            | Zone Guenaude           |
+| 2   | 2D4 Sirène               | Golem de Chaire ou Nécrophage | Dragon                     | Licorne            | L'Homme Saule            |                         |
+| 3   | 1D6 Adorateur de secte   | 2D4 Goule                     | Chamane Gob + 3D6 Gobelins | Troll              | L'Homme Saule            | Serpent Géant           |
+| 4   | 2D6 Suhuagin             | 3D6 Zombies                   | 2D4 Worg + Gobe (cavalier) | 1D4 Dryade         | L'Homme Saule            | 1 Crocodile             |
+| 5   | 2D6 Loup                 | 2D6 Guêpes Vampire            | 2D6 Mille-Pates géants     | 1 Araignée Géante  | 2D6 Champignon Violet    | 2D6 Sangsue Géante      |
+| 6   | 2D6 Bandit               | 3D4 squelettes                | 2D6 Gobelins               | 1D6 Fée            | 1D6 Feu Follet           | 1D6 Homme-Lézards       |
+| 7   | PNJ Amicaux              | PNJ Amicaux                   | PNJ Amicaux                | PNJ Amicaux        | PNJ Amicaux              |                         |
+| 8   | Lion                     | Rat Géant 3D6                 | 2D6 Loup                   | 2D4 Sanglier       | 2D4 Roncier (des marais) | 2D4 Grenouille Géante   |
+| 9   | 1D6 Guêpe Géante         | 2D4 squelettes                | 2D6 Chauve Souris géantes  | Lutin (Leprechaun) | 2D6 Fée (agressive)      | 2D4 Pêcheurs des Marais |
+| 10  | Bandits en embuscade 3D6 | Ours                          | 3D6 Gobelins               | Sylvanien          | 1D4 Etrangleur           | Vase Grise              |
+| 11  | Wyvern                   | Wyvern                        | Wyvern                     | Wyvern             | Wyvern                   | Wyvern                  |
+| 12  | Dragon                   | Dragon                        | Dragon                     | Dragon             | Dragon                   | Dragon                  |
 
 
 # Table des PNJ Amicaux
@@ -24,7 +24,7 @@
 | 2   | Troubadour Errant/dans la merde<br>- Précieux<br>- Donne systématiquement des rumeurs<br>fausses<br>- Au bout de 5 rencontres et enquêtes<br>donne un grand avantage<br>                                                                                                                                                |           |
 | 3   | Jeune sauvageon<br>- Tribu autochtone<br>- Parle en claquant la langue et en sifflant<br>- en pagne, peinturluré du visage<br>- S'il ne s'enfuit pas, il peut revenir avec<br>un ancien pour les soigner<br>- Si agressé, il s'échappe et revient avec <br>de la compagnie. Pourchasse les joueurs <br>en mode guerilla |           |
 | 4   | Groupe de Trappeurs 2D4<br>-Information sur les menaces de la zone. <br>Ont rencontré 1 résultat table des <br>rencontres.<br>1D6 - 1 belliqueux, 2 et 3 méfiants, 4 amicales,<br>6 en train d'être attaqué par table rencon.                                                                                           |           |
-| 5   |                                                                                                                                                                                                                                                                                                                         |           |
+| 5   | Chevalier errant accompagné d'un écuyer grincheux                                                                                                                                                                                                                                                                       |           |
 |     |                                                                                                                                                                                                                                                                                                                         |           |
 |     |                                                                                                                                                                                                                                                                                                                         |           |
 |     |                                                                                                                                                                                                                                                                                                                         |           |
