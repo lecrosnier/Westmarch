@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles.md",
+                "file": "Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Règles"
+              "title": "Lore"
             }
           },
           {
@@ -185,39 +185,38 @@
   },
   "active": "2f48e4afefb95d7a",
   "lastOpenFiles": [
+    "Factions.md",
+    "Cartes avec noms région.md",
+    "Carte.png",
+    "Carte.md",
+    "Capture d’écran du 2025-11-02 20-59-19 1.png",
+    "Capture d’écran du 2025-11-30 16-58-53.png",
+    "Capture d’écran du 2025-11-02 20-59-19.png",
+    "Règles.md",
     "Capture d’écran du 2025-11-30 16-58-53 3.png",
     "Capture d’écran du 2025-11-30 16-58-53 2.png",
     "Capture d’écran du 2025-11-30 16-58-53 1.png",
-    "Capture d’écran du 2025-11-30 16-58-53.png",
     "Règles Hexploration.md",
     "Zone/Table des zones.md",
     "Zone/Rencontres.md",
-    "Cartes avec noms région.md",
-    "Factions.md",
-    "Carte.png",
     "Zone/Cendregarde, la jumelle des terres.md",
     "Sans titre 1.md",
     "Sans titre.md",
     "Zone/Les villes.canvas",
-    "Capture d’écran du 2025-11-02 20-59-19 1.png",
-    "Carte.md",
     "Zone/Haute-Faille.md",
     "Zone/Contexte.md",
     "Ressources biblio.md",
     "Classes/Classes.md",
     "Classes.md",
     "Orga séance/Liste joueur.euse.md",
-    "Règles.md",
     "Zone/Port-Néréide, la ville portuaire.md",
     "Interaction factions.canvas",
     "Lore.md",
     "README.md",
     "Classes",
-    "Capture d’écran du 2025-11-02 20-59-19.png",
     "Bestiaire/Marchand errant.png",
     "Bestiaire/Griffon.md",
     "Image collée.png",
-    "Bestiaire/Loup.png",
-    "Bestiaire/Hommes-poissons.png"
+    "Bestiaire/Loup.png"
   ]
 }
