@@ -92,3 +92,10 @@ Idée face à une session trop longue et difficile.
 Les joueurs peuvent décider à l'unanimité de **se Retirer**. 
 Tous les personnages vivants doivent être hors combat et capables d'être déplacés. 
 _Ils fuient vers la sécurité - à un coût_. Chacun arrive avec 1PV, avec tous les consommables, sorts et baguettes épuisés. Chacun lance un dé au hasard pour qu'un objet de l'inventaire soit endommagé ou perdu. Le temps nécessaire est décidé par le MJ.
+
+
+**Coup de la vie** dans Shadowdark : 
+
+Citation de la créatrice "Un diamant représente le salaire d'un an pour une personne lamba"
+Un diamant valant 360 PO on peut estimer qu'un aventurier dépense 1PO par jour pour se loger et se nourrir. 
+

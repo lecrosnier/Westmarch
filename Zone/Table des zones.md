@@ -16,7 +16,7 @@
 |     |     |     |     | E14 | F14 | G14 | H14 | I14 | J14 | K14 |     |     |     |     |     |
 |     |     |     |     |     |     | G15 | H15 | I15 |     |     |     |     |     |     |     |
 
-Passage à des rivières : 
+Passage à des rivières : - L'Oiselet J4 K6 J8 F10  La Ganse K11 N10 L13 
 
 L4 : Tanière du Dragon 
 
@@ -56,3 +56,9 @@ C11 : Village sur pilotis des pêcheurs du marais.
 C11 : Maison abandonné 
 
 F13 : Village flottant des hommes-lézards
+
+I3 : Vallée des morts des gobelins. (pillé par les necros)
+
+H5 : Vieux monastère en ruine (dédié à au dieu loyal bannie)
+
+D3 : île des naufrageurs. 

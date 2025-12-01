@@ -14,7 +14,7 @@
 | 11  | Wyvern                   | Wyvern                        | Wyvern                     | Wyvern             | Wyvern                   | Wyvern                  |
 | 12  | Dragon                   | Dragon                        | Dragon                     | Dragon             | Dragon                   | Dragon                  |
 
-
+Hexagone avec une Tanière avant test rencontre lancer D6 sur un 1 ou 2 rencontre de la tanière a la place. 
 # Table des PNJ Amicaux
 
 

@@ -1,4 +1,10 @@
 
+**Proposition d'utilisation de la règle de rupture** 
+
+![[Capture d’écran du 2025-11-30 16-58-53 3.png]]
+Que pour les armures et bouclier sinon trop fort ? Voir que les boucliers ? 1 fois par combat ?
+J'y vois un intérêt pour proposer des choix aux joueurs et augmenter l'attrition du matériel tout en offrant un chouille plus de survivabilité. 
+
 # Points d'intérêt
 
 - 3 couches de gnion
