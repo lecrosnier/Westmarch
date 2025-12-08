@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5f5cafea0e91e9",
+        "id": "d6a28f1fd7d4a386",
         "type": "tabs",
         "children": [
           {
-            "id": "2f48e4afefb95d7a",
+            "id": "2309a7247c382d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore.md",
+                "file": "Orga séance/Liste joueur.euse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore"
-            }
-          },
-          {
-            "id": "d28586eb078439e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cartes avec noms région.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cartes avec noms région"
+              "title": "Liste joueur.euse"
             }
           }
         ]
@@ -183,40 +169,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f48e4afefb95d7a",
+  "active": "536dc8624b598707",
   "lastOpenFiles": [
-    "Factions.md",
-    "Cartes avec noms région.md",
-    "Carte.png",
-    "Carte.md",
-    "Capture d’écran du 2025-11-02 20-59-19 1.png",
-    "Capture d’écran du 2025-11-30 16-58-53.png",
+    "Zone/Cendregarde, la jumelle des terres.md",
+    "Zone/Contexte.md",
+    "Zone/Les villes.canvas",
+    "Zone/Port-Néréide, la ville portuaire.md",
     "Capture d’écran du 2025-11-02 20-59-19.png",
-    "Règles.md",
-    "Capture d’écran du 2025-11-30 16-58-53 3.png",
-    "Capture d’écran du 2025-11-30 16-58-53 2.png",
-    "Capture d’écran du 2025-11-30 16-58-53 1.png",
-    "Règles Hexploration.md",
     "Zone/Table des zones.md",
     "Zone/Rencontres.md",
-    "Zone/Cendregarde, la jumelle des terres.md",
-    "Sans titre 1.md",
-    "Sans titre.md",
-    "Zone/Les villes.canvas",
-    "Zone/Haute-Faille.md",
-    "Zone/Contexte.md",
-    "Ressources biblio.md",
+    "Classes/Moine.jpeg",
+    "Classes/Demi-Elf.png",
     "Classes/Classes.md",
-    "Classes.md",
-    "Orga séance/Liste joueur.euse.md",
-    "Zone/Port-Néréide, la ville portuaire.md",
+    "Classes/shd04_cursedscroll2.pdf",
+    "Classes/shd03_cursedscroll1.pdf",
+    "Classes/Ensorceleur.png",
+    "Classes/Image collée.png",
+    "Classes/Necromancer Playtest 3.pdf",
+    "Classes/TitresParPilleu.png",
+    "Classes/Roustabout.png",
+    "Classes/Rodeur.jpeg",
+    "Classes/PilleusedeTombes.jpeg",
+    "Classes/PariaMute.png",
+    "Classes/Paladin_Class__Playtest (1).pdf",
+    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
+    "Sans titre",
+    "Règles Hexploration.md",
+    "Sorts alignement",
+    "Ressources biblio.md",
+    "Règles.md",
+    "Carte.md",
+    "Cartes avec noms région.md",
+    "Factions.md",
     "Interaction factions.canvas",
     "Lore.md",
+    "Sans titre 1.md",
+    "Sans titre.md",
+    "Zone/Haute-Faille.md",
+    "Classes.md",
+    "Orga séance/Liste joueur.euse.md",
     "README.md",
     "Classes",
-    "Bestiaire/Marchand errant.png",
-    "Bestiaire/Griffon.md",
-    "Image collée.png",
-    "Bestiaire/Loup.png"
+    "Bestiaire/Griffon.md"
   ]
 }
