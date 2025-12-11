@@ -84,15 +84,25 @@
 	- la magie du chaos réveille le tombeau
 	- entraîne une réparation du lieu / rallume les lumières
 	- déclenche les pièges
+	- Connaît des sorts de protection contre les forces du bien
 - Les squelettes ranimés font déclencher les défense
 - Ambiance de fin du monde dans le tombeau
 - Les soldats squelettes du nécromancien vs des golems légers
 
 => Squelettes d'animaux/zombie en dehors de la nécropole
 
-- Prêtresse tombe sur les gantelets des dieux Loyaux
+- Prêtresse tombe sur  le général ange déchu, vivant & amnésique, punaisé au fond du tombeau par les lances de ses généraux
+- L'âme de l'ange est séparé de son corps, il ne peut pas mourir tant qu'ils ne sont pas réunis. 
+- Son âme est dans une relique/pendentif, qu'il faut lui passer au cou. 
+- Il possède des artefacts "les Gantelets du dieu Loyal", d'une grande puissance
+
+Les aventuriers peuvent : 
+- Tuer l'ange en lui enlevant les gantelet et en lui redonnant son âme
+ou
+- Détruire une petite portion de la région (et mourir au passage) en lui donnant son âme et en lui laissant les gantelets
+
 - Fin à la indiana Jones & l'arche perdue
-- Quête finale de redescendre les gantelets vers le fond de la nécropole
+- Quête finale de redescendre le pendentif vers le fond de la nécropole
 
 Idées de pièges : 
 - Pédiluve d'eau bénite
@@ -120,6 +130,8 @@ Idées de pièges :
 Le dragon
 - Est le rejeton du gardien du palais des nuages. 
 - Veut : récupérer le plus de trésor possible (un type d'objet précieux préféré à déterminer)
+
+
 
 # Factions indépendantes
 ## Les Guides
