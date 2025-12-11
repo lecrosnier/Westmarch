@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"bd5ad68ca2e04ed9","type":"file","file":"Lore.md","x":-400,"y":-400,"width":540,"height":500},
 		{"id":"6c2f8df46b075d2f","type":"file","file":"Factions.md","x":260,"y":-400,"width":540,"height":500},
-		{"id":"df4469b1b897e94b","type":"file","file":"Règles.md","x":-400,"y":200,"width":540,"height":600},
+		{"id":"df4469b1b897e94b","type":"file","file":"Règles/Règles.md","x":-400,"y":200,"width":540,"height":600},
 		{"id":"4495ebb5f41d5bd4","type":"file","file":"Carte.md","x":260,"y":200,"width":540,"height":600}
 	],
 	"edges":[]

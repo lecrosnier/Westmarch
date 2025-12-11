@@ -23,3 +23,17 @@ Déroulé :
 - Après inspection, un passage dérobé mène vers une excavation gigantesque avec des couloirs aux murs d'os
 - Les gobelins sont drogués à la moelle de ces os
 [[Goblin.png]] => STAT : double attaque, avec désavantage au toucher
+
+
+**C11** : 
+- Un marchant errant raconte qu'un village de pêcheurs sur pilotis se trouve derrière les trois soeurs
+
+Déroulé : 
+- Une maison abandonnée attire l'attention à l'extérieur du village. La maison est hantée. 
+- Les enfants voient une créature translucide
+- Si les aventuriers campent dans la maison, leurs vivres et bougies disparaissent, et sont troqués contre des peaux de bête
+
+**C11** (deuxième visite): 
+Autre aventure
+- Les enfants du village ont disparu, et des créatures inconnues rodent autour du village
+- [[Factions#La Guenaude des marais]]
