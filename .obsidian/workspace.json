@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga séance/Liste joueur.euse.md",
+                "file": "Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liste joueur.euse"
+              "title": "Factions"
             }
           }
         ]
@@ -169,14 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "536dc8624b598707",
+  "active": "2309a7247c382d04",
   "lastOpenFiles": [
+    "Zone/Table des zones.md",
+    "Interaction factions.canvas",
+    "Factions.md",
+    "Carte.md",
+    "Ressources biblio.md",
+    "Règles Hexploration.md",
+    "Règles.md",
+    "README.md",
+    "Lore.md",
+    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
+    "Orga séance/Liste joueur.euse.md",
     "Zone/Cendregarde, la jumelle des terres.md",
     "Zone/Contexte.md",
     "Zone/Les villes.canvas",
     "Zone/Port-Néréide, la ville portuaire.md",
     "Capture d’écran du 2025-11-02 20-59-19.png",
-    "Zone/Table des zones.md",
     "Zone/Rencontres.md",
     "Classes/Moine.jpeg",
     "Classes/Demi-Elf.png",
@@ -192,23 +202,13 @@
     "Classes/PilleusedeTombes.jpeg",
     "Classes/PariaMute.png",
     "Classes/Paladin_Class__Playtest (1).pdf",
-    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
     "Sans titre",
-    "Règles Hexploration.md",
     "Sorts alignement",
-    "Ressources biblio.md",
-    "Règles.md",
-    "Carte.md",
     "Cartes avec noms région.md",
-    "Factions.md",
-    "Interaction factions.canvas",
-    "Lore.md",
     "Sans titre 1.md",
     "Sans titre.md",
     "Zone/Haute-Faille.md",
     "Classes.md",
-    "Orga séance/Liste joueur.euse.md",
-    "README.md",
     "Classes",
     "Bestiaire/Griffon.md"
   ]

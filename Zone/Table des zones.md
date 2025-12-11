@@ -62,3 +62,6 @@ I3 : Vallée des morts des gobelins. (pillé par les necros)
 H5 : Vieux monastère en ruine (dédié à au dieu loyal bannie)
 
 D3 : île des naufrageurs. 
+
+L8 : Golem reconstruit une tour, ruine du chateau volant tombé. 
+
