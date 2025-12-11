@@ -11,7 +11,7 @@ Classes spécifiques
 - Ensorceleur
 - Gladiateur
 - Pilleur de tombes
-- Paria (mutant)
+- Paria (mutant) [[Paria.png]]
 - Duelliste
 - Moine
 - Nécromancien
