@@ -128,10 +128,20 @@ Idées de pièges :
 - ils le couvrent de cadeau
 
 Le dragon
-- Est le rejeton du gardien du palais des nuages. 
-- Veut : récupérer le plus de trésor possible (un type d'objet précieux préféré à déterminer)
+- Est le descendant gardien du palais des nuages. 
+- Veut : récupérer le plus de trésor possible (un type d'objet précieux = pendentif)
+- Il s'ennuie dans le palais et s'échappe sur terre régulièrement
+- Il connaît le secret du pacte
+- Il est le gardien des 4 mages survivants du Pacte : "les Témoins"
 
-
+Le Chateau, le dragon, les Témoins et les Fey : 
+- Le dragon s'impatiente au chateau
+- Il décide de faire des voyages entre le chateau et la terre
+- Un pan du chateau avec le Pendentif sombre dans le marais
+- Le dragon cherche à le récupérer et commande aux gobelins de lui ramener tous les pendentifs
+- La Guenaude a récupéré le pendentif, et l'a refourgué aux aventuriers pour semer le chaos dans la région
+- Les aventuriers ne peuvent pas se débarrasser du pendentif
+- Le pendentif est la clé permettant de libérer l'ange déchu de la nécropole
 
 # Factions indépendantes
 ## Les Guides
