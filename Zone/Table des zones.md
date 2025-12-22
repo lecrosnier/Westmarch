@@ -32,9 +32,9 @@ H12 : Tanière des Wyverne
 
 C5 : Repaire des cultistes de l'Aboleth ( grotte côtière accès directe à la mer souterraine)
 
-I9 J8 I13 J11 K11 L11 M11 N10 O10 L12 L13 K14 : 1D8 sur1 rencontre avec des Naïade qui chante et joue dans l'eau. Sur 3 test ND 18 de chansons, un perso peut les impressionner par son talent et gagner 1 point de charisme. 
+I9 J8 I13 J11 K11 L11 M11 N10 O10 L12 L13 K14 : 1D8 sur1 rencontre avec des Naïade qui chante et joue dans l'eau. Sur 3 test ND 20 de chansons, un perso peut les impressionner par son talent et gagner 2 points de charisme. 
 
-L10 : Pierre des étoiles, à la lumière des étoiles peut permettre de lancer 3  sort 
+L10 : Pierre des étoiles, à la lumière des étoiles peut permettre de lancer 3  sort Divination.
 
 F5 : Tanière de la lionne morte-vivante. 
 
@@ -44,7 +44,7 @@ L8 : L'ancienne tour de magicien gardé par un Golem.
 
 J4 : Tanière Ours-Hibou 
 
-J9 : Repère d'un Troll 
+J10 : Repère d'un Troll 
 
 D6 : Tanière Griffon
 
@@ -64,4 +64,10 @@ H5 : Vieux monastère en ruine (dédié à au dieu loyal bannie)
 D3 : île des naufrageurs. 
 
 L8 : Golem reconstruit une tour, ruine du chateau volant tombé. 
+
+D11 : La tour du seigneur Crapaud one p DJ
+
+K7 : Goblin Gully one page DJ. 
+
+H10 : La gueule de Ramlaat. Cirque rocheux Arène. 
 

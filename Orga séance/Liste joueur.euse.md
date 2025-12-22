@@ -1,20 +1,20 @@
 Très motivés 
-- Clara 
-- Maxime
+- Clara +
+- Maxime +
 - Victor 
 - Émeline 
-- Pipou
+- Pipou +
 - Tom 
 Intéresser 
 - Brice 
 - Justine
-- Thomas de Pipou
+- Thomas de Pipou +
 - Théo de Pipou
 - Marius
 - Carole
 
 
-
++Persos fait
 
 
 
