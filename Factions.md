@@ -123,7 +123,7 @@ Idées de pièges :
 
 => La tribu
 - très désorganisée
-- Leur dieu est un dragon **Doré**
+- Leur dieu est un dragon **Doré** (du Désert)
 - Les gobelins ont créé un culte autour de lui car il a les plus belles couleurs
 - ils le couvrent de cadeau
 

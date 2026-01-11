@@ -16,58 +16,52 @@
 |     |     |     |     | E14 | F14 | G14 | H14 | I14 | J14 | K14 |     |     |     |     |     |
 |     |     |     |     |     |     | G15 | H15 | I15 |     |     |     |     |     |     |     |
 
-Passage à des rivières : - L'Oiselet J4 K6 J8 F10  La Ganse K11 N10 L13 
+C5 : Repaire des cultistes de l’Aboleth (grotte côtière, accès à la mer souterraine)  
+C9 : Camp des Indépendantistes  
+C11 : Village sur pilotis des pêcheurs du marais ; Maison abandonnée
 
-L4 : Tanière du Dragon 
+D3 : Île des naufrageurs  
+D6 : Tanière du Griffon  
+D11 : La tour du seigneur Crapaud (one page DJ)  
+D13 : Repaire de la Guenaude
 
-G2 : Nécropole du roi-ange
-
-D13 : Repaire de la Guenaude 
-
-C9 : Camp des Indépendantistes
-
-L12 : Lac endormie (Portail cour des fées)
-
-H12 : Tanière des Wyverne
-
-C5 : Repaire des cultistes de l'Aboleth ( grotte côtière accès directe à la mer souterraine)
-
-I9 J8 I13 J11 K11 L11 M11 N10 O10 L12 L13 K14 : 1D8 sur1 rencontre avec des Naïade qui chante et joue dans l'eau. Sur 3 test ND 20 de chansons, un perso peut les impressionner par son talent et gagner 2 points de charisme. 
-
-L10 : Pierre des étoiles, à la lumière des étoiles peut permettre de lancer 3  sort Divination.
-
-F5 : Tanière de la lionne morte-vivante. 
-
-J8 : Vieux pont fortifié hanté. 
-
-L8 : L'ancienne tour de magicien gardé par un Golem. 
-
-J4 : Tanière Ours-Hibou 
-
-J10 : Repère d'un Troll 
-
-D6 : Tanière Griffon
-
-G10 : Tanière Ours
-
-M7 : Tanière smilodon 
-
-C11 : Village sur pilotis des pêcheurs du marais. 
-C11 : Maison abandonné 
-
+F5 : Tanière de la lionne morte-vivante  
+F10 : Passage de L’Oiselet (rivière)  
 F13 : Village flottant des hommes-lézards
 
-I3 : Vallée des morts des gobelins. (pillé par les necros)
+G2 : Nécropole du roi-ange  
+G10 : Tanière de l’Ours
 
-H5 : Vieux monastère en ruine (dédié à au dieu loyal bannie)
+H5 : Vieux monastère en ruine (dieu loyal banni)  
+H10 : La gueule de Ramlaat — Cirque rocheux / Arène  
+H12 : Tanière des Wyvernes
 
-D3 : île des naufrageurs. 
+I3 : Vallée des morts des gobelins (pillée par les nécros)  
+I9 : Zone des Naïades  
+I13 : Zone des Naïades
 
-L8 : Golem reconstruit une tour, ruine du chateau volant tombé. 
+J4 : Tanière de l’Ours-Hibou ; Passage de L’Oiselet  
+J8 : Vieux pont fortifié hanté ; Passage de L’Oiselet ; Zone des Naïades  
+J10 : Repère d’un Troll  
+J11 : Zone des Naïades
 
-D11 : La tour du seigneur Crapaud one p DJ
+K6 : Passage de L’Oiselet  
+K7 : Goblin Gully (one page DJ)  
+K11 : Passage de La Ganse ; Zone des Naïades  
+K14 : Zone des Naïades
 
-K7 : Goblin Gully one page DJ. 
+L4 : Tanière du Dragon  
+L8 : Ancienne tour de magicien gardée par un Golem ; Ruines du château volant tombé  
+L10 : Pierre des étoiles (3 sorts de Divination sous les étoiles)  
+L11 : Zone des Naïades  
+L12 : Lac endormi (Portail de la cour des fées) ; Zone des Naïades  
+L13 : Passage de La Ganse ; Zone des Naïades
 
-H10 : La gueule de Ramlaat. Cirque rocheux Arène. 
+M7 : Tanière du Smilodon  
+M11 : Zone des Naïades
 
+N10 : Passage de La Ganse ; Zone des Naïades
+
+O10 : Zone des Naïades
+
+Zone des Naïades : Rencontre 1D8 Naïades chantant et jouant dans l’eau ; sur 3 tests ND 20 de chant, un PJ peut les impressionner et gagner +2 Charisme

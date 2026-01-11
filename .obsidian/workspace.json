@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Factions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factions"
+            }
+          },
+          {
+            "id": "ded32c0f75b54e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Zone/Table des zones.md",
                 "mode": "source",
                 "source": false
@@ -20,20 +34,9 @@
               "icon": "lucide-file",
               "title": "Table des zones"
             }
-          },
-          {
-            "id": "ded32c0f75b54e89",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Carte.png"
-              },
-              "icon": "lucide-image",
-              "title": "Carte"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,38 +184,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "2309a7247c382d04",
+  "active": "ded32c0f75b54e89",
   "lastOpenFiles": [
     "Carte.png",
     "Zone/Table des zones.md",
+    "Zone/Rencontres.md",
+    "Factions.md",
+    "Lore.md",
+    "README.md",
+    "Westmarch.canvas",
+    "Ressources biblio.md",
+    "Interaction factions.canvas",
+    "Classes/Roustabout.png",
+    "Classes/shd03_cursedscroll1.pdf",
+    "Classes/Rodeur.jpeg",
+    "Classes/Paria.png",
+    "Classes/PariaMute.png",
     "Orga séance/Rumeurs.md",
     "Orga séance/Liste joueur.euse.md",
     "Sorts alignement/Western Reaches Spells (Playtest).pdf",
     "Classes/shd04_cursedscroll2.pdf",
-    "Classes/shd03_cursedscroll1.pdf",
     "Classes/Duelliste.png",
     "Classes/PilleusedeTombes.jpeg",
     "Classes/TitresParPilleu.png",
-    "Classes/PariaMute.png",
-    "Classes/Roustabout.png",
-    "Classes/Rodeur.jpeg",
     "Classes/Barde.png",
     "Classes/Classes.md",
-    "Zone/Rencontres.md",
-    "Factions.md",
-    "Interaction factions.canvas",
     "Carte.md",
-    "Ressources biblio.md",
     "Règles Hexploration.md",
     "Règles.md",
-    "README.md",
-    "Lore.md",
     "Zone/Cendregarde, la jumelle des terres.md",
     "Zone/Contexte.md",
     "Zone/Les villes.canvas",
     "Zone/Port-Néréide, la ville portuaire.md",
     "Capture d’écran du 2025-11-02 20-59-19.png",
-    "Classes/Moine.jpeg",
     "Classes/Necromancer Playtest 3.pdf",
     "Classes/Paladin_Class__Playtest (1).pdf",
     "Sans titre",
