@@ -11,12 +11,14 @@
             "id": "ded32c0f75b54e89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Carte.png"
+                "file": "Règles/Règles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Carte"
+              "icon": "lucide-file",
+              "title": "Règles"
             }
           }
         ]
@@ -169,10 +171,12 @@
   },
   "active": "ded32c0f75b54e89",
   "lastOpenFiles": [
+    "Classes/Paladin_Class__Playtest (1).pdf",
+    "Classes/Necromancer Playtest 3.pdf",
+    "Carte.png",
     "Zone/Table des zones.md",
     "Règles/Règles Hexploration.md",
     "Règles/Rupture.png",
-    "Carte.png",
     "Zone/Les villes.canvas",
     "Orga séance/Rumeurs.md",
     "Zone/Rencontres.md",
@@ -201,8 +205,6 @@
     "Zone/Cendregarde, la jumelle des terres.md",
     "Zone/Contexte.md",
     "Zone/Port-Néréide, la ville portuaire.md",
-    "Classes/Necromancer Playtest 3.pdf",
-    "Classes/Paladin_Class__Playtest (1).pdf",
     "Sans titre",
     "Sorts alignement",
     "Cartes avec noms région.md",
