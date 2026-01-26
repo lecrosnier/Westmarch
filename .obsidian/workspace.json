@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles/Règles.md",
+                "file": "Zone/Cendregarde, la jumelle des terres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Règles"
+              "title": "Cendregarde, la jumelle des terres"
+            }
+          },
+          {
+            "id": "33166c112701b093",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Carte.png"
+              },
+              "icon": "lucide-image",
+              "title": "Carte"
             }
           }
         ]
@@ -171,16 +183,17 @@
   },
   "active": "ded32c0f75b54e89",
   "lastOpenFiles": [
-    "Règles/Règles Hexploration.md",
+    "Zone/Port-Néréide, la ville portuaire.md",
+    "Zone/Table des zones.md",
+    "Carte.png",
+    "Zone/Rencontres.md",
     "Règles/Règles.md",
+    "Règles/Règles Hexploration.md",
     "Classes/Paladin_Class__Playtest (1).pdf",
     "Classes/Necromancer Playtest 3.pdf",
-    "Carte.png",
-    "Zone/Table des zones.md",
     "Règles/Rupture.png",
     "Zone/Les villes.canvas",
     "Orga séance/Rumeurs.md",
-    "Zone/Rencontres.md",
     "Factions.md",
     "Lore.md",
     "README.md",
@@ -205,7 +218,6 @@
     "Règles.md",
     "Zone/Cendregarde, la jumelle des terres.md",
     "Zone/Contexte.md",
-    "Zone/Port-Néréide, la ville portuaire.md",
     "Sans titre",
     "Sorts alignement",
     "Cartes avec noms région.md",

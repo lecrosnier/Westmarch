@@ -61,6 +61,7 @@ Assistée d'un **Préfet :**
 	- Discussion avec autres aventuriers
 	- Centralisation des rumeurs
 	- Le tavernier collecte les ragots
+	- Tenu par Ulara (demi-orc grande athlétique) et Darvin (nain massif, légèrement envelopper)
 
 - Forge : ***La Forge de Cendre***
 	- Tenue par un homme rustaud et court sur pates

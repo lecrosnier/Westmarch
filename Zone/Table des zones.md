@@ -22,6 +22,7 @@ C11 : Village sur pilotis des pêcheurs du marais ; Maison abandonnée
 
 D3 : Île des naufrageurs  
 D6 : Tanière du Griffon  
+D7 : Ancien fortin occupé par bandit
 D11 : La tour du seigneur Crapaud (one page DJ)  
 D13 : Repaire de la Guenaude
 
@@ -30,6 +31,7 @@ F10 : Passage de L’Oiselet (rivière)
 F13 : Village flottant des hommes-lézards
 
 G2 : Nécropole du roi-ange  
+G6 : La mare au Loup 
 G10 : Tanière de l’Ours
 
 H5 : Vieux monastère en ruine (dieu loyal banni)  
@@ -37,6 +39,7 @@ H10 : La gueule de Ramlaat — Cirque rocheux / Arène
 H12 : Tanière des Wyvernes
 
 I3 : Vallée des morts des gobelins (pillée par les nécros)  
+I4 : Chapelle couverte de plantes. 
 I9 : Zone des Naïades  
 I13 : Zone des Naïades
 

@@ -5,7 +5,7 @@
 | -------------------- | ----------------------------------------------------------------------------------------------------- |
 | 1 Gamin des rues     | +2 pour mentir ou détecté mensonge                                                                    |
 | 2 Recherché          | + 2 initiative                                                                                        |
-| 3 Initié d'une secte |                                                                                                       |
+| 3 Initié d'une secte | La 1ère action tenter dans le noir complet est fait sans désa.                                        |
 | 4 Guilde des voleurs | +2 voler et escamoter (manipuler petit objet)                                                         |
 | 5 Banni              |                                                                                                       |
 | 6 Orphelin           | 1/j peut relancer une 2éme jetons de chances.                                                         |
