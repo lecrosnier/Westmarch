@@ -22,27 +22,17 @@
             }
           },
           {
-            "id": "dc768a12f1c5f0a4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Orga séance/Séance 2/Plan donjon.png"
-              },
-              "icon": "lucide-image",
-              "title": "Plan donjon"
-            }
-          },
-          {
             "id": "1c22c88c37760ab4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Carte.png"
+                "file": "Orga séance/Séance 2/Déroulé Séance 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Carte"
+              "icon": "lucide-file",
+              "title": "Déroulé Séance 2"
             }
           }
         ],
@@ -53,17 +43,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05b0003c53218ec9",
+            "id": "dc768a12f1c5f0a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Orga séance/Rumeurs.md",
-                "mode": "source",
-                "source": false
+                "file": "Orga séance/Séance 2/Plan donjon.png"
               },
-              "icon": "lucide-file",
-              "title": "Rumeurs"
+              "icon": "lucide-image",
+              "title": "Plan donjon"
             }
           },
           {
@@ -80,8 +68,7 @@
               "title": "Rumeurs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,13 +217,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc768a12f1c5f0a4",
+  "active": "1c22c88c37760ab4",
   "lastOpenFiles": [
+    "Bestiaire/Squelette.png",
     "Orga séance/Séance 2/Déroulé Séance 2.md",
+    "Règles/Règles.md",
     "Orga séance/Séance 2/Plan donjon.png",
+    "Orga séance/Rumeurs.md",
+    "Carte.png",
     "Orga séance/Invitation.md",
     "Règles/Règles Hexploration.md",
-    "Orga séance/Rumeurs.md",
     "Orga séance/Séance 2",
     "Orga séance/Liste joueur.euse.md",
     "Sorts alignement/Western Reaches Spells (Playtest).pdf",
@@ -250,7 +240,6 @@
     "README.md",
     "Interaction factions.canvas",
     "Bestiaire/Goblin.png",
-    "Carte.png",
     "Factions.md",
     "Lore.md",
     "Zone/Cendregarde, la jumelle des terres.md",
@@ -262,11 +251,9 @@
     "Règles/Rupture.png",
     "Capture d’écran du 2025-11-02 20-59-19 1.png",
     "Cartes avec noms région.md",
-    "Règles/Règles.md",
     "Règles",
     "Carte.md",
     "Bestiaire/Marchand errant.png",
-    "Classes/Paria.png",
     "Classes/shd03_cursedscroll1.pdf",
     "Westmarch.canvas",
     "Classes/Necromancer Playtest 3.pdf",
