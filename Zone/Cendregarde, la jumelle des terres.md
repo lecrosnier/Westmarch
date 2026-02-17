@@ -64,8 +64,9 @@ Assistée d'un **Préfet :**
 	- Tenu par Ulara (demi-orc grande athlétique) et Darvin (nain massif, légèrement envelopper)
 
 - Forge : ***La Forge de Cendre***
-	- Tenue par un homme rustaud et court sur pates
-	- Peut fabriquer des elements sur commande, payés rubis sur ongle
+	- Tenue par un homme rustaud (Harl ) et court sur pattes, complètement chauve avec un bec de lièvre. 
+	- Peut fabriquer des éléments sur commande, payés rubis sur ongle
 	- mais gère principalement l'entretien des armes et armures de la garnison
 
 - Bazar : ***Le Sou des Trois Clefs***
+- 

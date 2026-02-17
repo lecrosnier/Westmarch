@@ -8,67 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2309a7247c382d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Règles/Règles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Règles"
-            }
-          },
-          {
-            "id": "1c22c88c37760ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga séance/Séance 2/Déroulé Séance 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Déroulé Séance 2"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5f714367b089a58f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc768a12f1c5f0a4",
+            "id": "ded32c0f75b54e89",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Orga séance/Séance 2/Plan donjon.png"
+                "file": "Carte.png"
               },
               "icon": "lucide-image",
-              "title": "Plan donjon"
+              "title": "Carte"
             }
           },
           {
-            "id": "606906ec35820b09",
+            "id": "a08e26f09f0fc1f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga séance/Rumeurs.md",
+                "file": "Zone/Table des zones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rumeurs"
+              "title": "Table des zones"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -141,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga séance/Rumeurs.md",
+                "file": "Bestiaire/Loup.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rumeurs"
+              "title": "Rétrolien pour Loup"
             }
           },
           {
@@ -160,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga séance/Rumeurs.md",
+                "file": "Bestiaire/Loup.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rumeurs"
+              "title": "Liens sortants de Loup"
             }
           },
           {
@@ -189,17 +155,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga séance/Rumeurs.md",
+                "file": "Bestiaire/Loup.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rumeurs"
+              "title": "Plan de Loup"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,60 +173,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false
     }
   },
-  "active": "1c22c88c37760ab4",
+  "active": "a08e26f09f0fc1f5",
   "lastOpenFiles": [
-    "Bestiaire/Squelette.png",
-    "Orga séance/Séance 2/Déroulé Séance 2.md",
-    "Règles/Règles.md",
-    "Orga séance/Séance 2/Plan donjon.png",
-    "Orga séance/Rumeurs.md",
     "Carte.png",
-    "Orga séance/Invitation.md",
-    "Règles/Règles Hexploration.md",
-    "Orga séance/Séance 2",
-    "Orga séance/Liste joueur.euse.md",
+    "Zone/Table des zones.md",
     "Sorts alignement/Western Reaches Spells (Playtest).pdf",
-    "Classes/Classes.md",
+    "Armes Nouvelles/Necromancer + armes .pdf",
+    "Armes Nouvelles",
+    "Orga séance/Séance 2/Plan donjon.png",
+    "Orga séance/Invitation.md",
+    "Orga séance/Séance 2/Déroulé Séance 2.md",
     "Classes/Barde.png",
-    "Zone/Haute-Faille.md",
-    "Classes/Duelliste.png",
+    "Zone/Cendregarde, la jumelle des terres.md",
+    "Bestiaire/Dragon 1.png",
+    "Bestiaire/Dragon2.png",
+    "Bestiaire/Fée.png",
+    "Zone/Rencontres.md",
+    "Orga séance/Séance 2",
     "Classes/shd04_cursedscroll2.pdf",
-    "Classes/TitresParPilleu.png",
-    "Ressources biblio.md",
-    "README.md",
-    "Interaction factions.canvas",
-    "Bestiaire/Goblin.png",
+    "Bestiaire/Bandit.png",
+    "Classes/PilleusedeTombes.jpeg",
+    "Zone/Port-Néréide, la ville portuaire.md",
+    "Règles/Règles.md",
+    "Règles/Règles Hexploration.md",
+    "Classes/Paladin_Class__Playtest (1).pdf",
+    "Classes/Necromancer Playtest 3.pdf",
+    "Règles/Rupture.png",
+    "Zone/Les villes.canvas",
+    "Orga séance/Rumeurs.md",
     "Factions.md",
     "Lore.md",
-    "Zone/Cendregarde, la jumelle des terres.md",
-    "Zone/Contexte.md",
-    "Zone/Les villes.canvas",
-    "Zone/Port-Néréide, la ville portuaire.md",
-    "Zone/Table des zones.md",
-    "Zone/Rencontres.md",
-    "Règles/Rupture.png",
-    "Capture d’écran du 2025-11-02 20-59-19 1.png",
-    "Cartes avec noms région.md",
-    "Règles",
-    "Carte.md",
-    "Bestiaire/Marchand errant.png",
-    "Classes/shd03_cursedscroll1.pdf",
+    "README.md",
     "Westmarch.canvas",
-    "Classes/Necromancer Playtest 3.pdf",
-    "Classes/Paladin_Class__Playtest (1).pdf",
-    "Sans titre",
+    "Ressources biblio.md",
+    "Interaction factions.canvas",
+    "Classes/Roustabout.png",
+    "Classes/shd03_cursedscroll1.pdf",
+    "Orga séance/Liste joueur.euse.md",
+    "Classes/Classes.md",
+    "Carte.md",
+    "Règles Hexploration.md",
+    "Règles.md",
+    "Zone/Contexte.md",
     "Sorts alignement",
+    "Cartes avec noms région.md",
     "Sans titre 1.md",
     "Sans titre.md",
+    "Zone/Haute-Faille.md",
     "Classes.md",
     "Classes",
     "Bestiaire/Griffon.md"
