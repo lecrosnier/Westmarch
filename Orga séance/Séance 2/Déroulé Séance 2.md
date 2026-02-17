@@ -1,3 +1,4 @@
+**Rumeur**
 E6
 - Des prospecteurs sont envoyés par Cendregarde pour exploiter de nouveaux filons de minerai
 - Les prospecteurs rapportent avoir trouvé une ruine ancienne (site archéo) en creusant
@@ -14,10 +15,24 @@ Quand les aventuriers sortent:
 [[Zombie.png]]
 
 
+
+**Avant : **
+
+Prospecteurs autour du feu, en plein repas
+chariots toilés en cercle
+
+Farond = chef demi-elfe. Visage buriné par les voyages, nez cassé et main manquante
+Hera = adjointe naine, barbe rousse tressée, teint have et regard dur. 
+reste de l'équipe au teint hagard. 
+
+Un membre décédé
+Pas les premiers aventuriers à être rentrés
+
+
 **Entrée :** 
 Porte en Pierre brisée, terre fraîche et traces de pas, débris sur le sol, lianes et racines gênent la progression et la visibilité dans l'escalier.
 Après un escalier long d'une centaine de marches, grande salle  avec deux rangées de colonnes. Des lianes et racines se sont faufilées des fissures des murs et plafond, et courent au sol 
-Message dans langue ancienne : idéogrammes : "Courbez l'échine ou périssez." DD 12 Langues/intélligence
+Message dans langue ancienne : idéogrammes : "Courbez l'échine ou périssez." DD 12 Langues/intelligence
 
 
 **Salle 2 :** 
@@ -29,7 +44,7 @@ Visage exsangue, inexpressif, angles impossibles sur un de ses bras et une  jamb
 [[Zombie.png]]
 [[Squelette.png]]
 
-**salle 3 :** 
+**Salle 3 :** 
 Salle au plafond  très haut / invisible, monticule de terre et humus au centre, lumière de fin de jour en haut, lianes qui pendent du plafond. Petits animaux qui s'enfuient (type souris)
 Si test de perception réussi : animaux squelettes
 
@@ -39,6 +54,10 @@ DD 8 perception: grosse masse qui a étalé tout le long de la salle le sang dan
 DD 14 perception, AV pièges: deux réceptacles à torches sont des mécanismes cachés pour désactiver le piège. => sacrifice de 2 torches
 DD 14 artisanat : possibilité de bloquer le mécanisme. 
 
+**Salle 5 :** 
+groupe de gobelins étrangement lents
+[[Goblin.png]] [[Zombie.png]]
+
 **Antichambre** : 
 Nombreux bas reliefs montrant des groupes d'humains se prosternant devant une statue gigantesque aux yeux de rubis.
 
@@ -47,4 +66,27 @@ Perception DD 5
 Traînée calcinée sur le sol et jusqu'au mur en face de la porte. 
 
 Inscription ancienne : DD 12
-"Unis jusqu'au bout dans la lumière, vous trouverez le salut"
+"Unis jusqu'au bout dans la lumière, vous trouverez le salut.
+Les couards périront du feu divin"
+
+**Salle 6 :** 
+gobelins massacrés au sol. Criblés de flèches
+
+**Salle aux statues** : 
+Statues gigantesque (15m de haut) toutes autour d'un piédestal. 
+Une statue titanesque (20m de haut), couronnée, aux yeux de rubis rougeoyants.
+DD 10 : Anneau avec émeraude enchassée dans le piédestal.
+La porte claque dès la rentrée des joueurs.
+
+Joueurs : 
+- Tuck la ricoche
+	- Querrier halfelin, bouclier & morgenstern
+	- sans dents de devant
+- Léana Croft
+	- Elfe riche, veut faire ses preuves
+	- pilleuse de tombes, recherchée, Arc Long
+- Edreline, Demi-elfe acolyte venu d'un temple lointain
+	- soif de connaissances et découvertes & puissant artefacts
+	- arrogance de surface => anxieuse
+- Darklord, mage costaud, hautin et pédant (Nathan Lebois)
+
