@@ -1,13 +1,13 @@
 ![[Carte.png]]
 
-
+C6 : Petit stèle étrange rongé par la mer.Représente en fait un culte de l'Aboleth.  1d6 chance de trouver des Shanghuni en train de prier et sacrifier des prisonniers. 
 C5 : Repaire des cultistes de l’Aboleth (grotte côtière, accès à la mer souterraine)  
 C9 : Camp des Indépendantistes  
 C11 : Village sur pilotis des pêcheurs du marais ; Maison abandonnée
 
 D3 : Île des naufrageurs  
 D6 : Tanière du Griffon  
-D7 : Ancien fortin occupé par bandit (expéditon) + puit au squelette
+D7 : Ancien fortin occupé par bandit (expéditon) + puits au squelette
 D12 : Le palais oublié du Roi-Grenouille (grand donjon déjà écrit)
 D13 : Repaire de la Guenaude
 
