@@ -13,27 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zone/Village de pêcheur sur pilotis.md",
+                "file": "Règles/Règles Hexploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Village de pêcheur sur pilotis"
+              "title": "Règles Hexploration"
             }
           },
           {
-            "id": "a08e26f09f0fc1f5",
+            "id": "bc750567675e6b23",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Armes Nouvelles/Necromancer + armes .pdf"
+                "file": "Zone/Table des zones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Necromancer + armes"
+              "icon": "lucide-file",
+              "title": "Table des zones"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ded32c0f75b54e89",
+  "active": "bc750567675e6b23",
   "lastOpenFiles": [
+    "Règles/Règles Hexploration.md",
     "Zone/Rencontres.md",
     "Zone/Village de pêcheur sur pilotis.md",
     "Armes Nouvelles/Necromancer + armes .pdf",
@@ -207,7 +211,6 @@
     "Classes/shd04_cursedscroll2.pdf",
     "Zone/Port-Néréide, la ville portuaire.md",
     "Règles/Règles.md",
-    "Règles/Règles Hexploration.md",
     "Classes/Paladin_Class__Playtest (1).pdf",
     "Classes/Necromancer Playtest 3.pdf",
     "Zone/Les villes.canvas",
