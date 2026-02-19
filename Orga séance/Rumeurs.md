@@ -37,3 +37,10 @@ Déroulé :
 Autre aventure
 - Les enfants du village ont disparu, et des créatures inconnues rodent autour du village
 - [[Factions#La Guenaude des marais]]
+
+**C9** : Les enlèvements du bois des Lucioles
+
+- Bandit capturé raconte les enlèvements
+- ne sait pas pourquoi il a capturé des gens
+- ne sait pas où il les a emmenés
+- Bois des Lucioles contient un camp de bandits!
