@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c82de2899df0a530",
+    "id": "31f2cb1a1dd8f384",
     "type": "split",
     "children": [
       {
-        "id": "d6a28f1fd7d4a386",
+        "id": "713d3bd23ac07efd",
         "type": "tabs",
         "children": [
           {
-            "id": "ded32c0f75b54e89",
+            "id": "5d671a61252872cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga séance/Expédition 3/Expédition 1.md",
+                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expédition 1"
+              "title": "Déroulé Séance 3"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f30a1e16e5c4f61c",
+    "id": "b0710e14f3958fa4",
     "type": "split",
     "children": [
       {
-        "id": "a383aee74abeac22",
+        "id": "72dbb89b5dd5dd0b",
         "type": "tabs",
         "children": [
           {
-            "id": "536dc8624b598707",
+            "id": "3840f5266b549197",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "853697ebe7a6cb61",
+            "id": "2d0267769fb49ec9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "428eadc5c4935c9f",
+            "id": "3d0ab3cd0e305673",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "f941462951e44112",
+    "id": "0003bf1ba207958b",
     "type": "split",
     "children": [
       {
-        "id": "fb74adbc0500dfdc",
+        "id": "86e877dbf6d7cb7f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7592fe87ac2c816",
+            "id": "47d9bab6a080d74d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiaire/Loup.png",
+                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Loup"
+              "title": "Rétrolien pour Déroulé Séance 3"
             }
           },
           {
-            "id": "e5d3402dc2c19450",
+            "id": "d2e40e2bc5ad8951",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiaire/Loup.png",
+                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Loup"
+              "title": "Liens sortants de Déroulé Séance 3"
             }
           },
           {
-            "id": "672cf8d9f3e13b7b",
+            "id": "0d041fb7f7a90a44",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "09934d78665ff14c",
+            "id": "6324bcbc1b445ee3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiaire/Loup.png",
+                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Loup"
+              "title": "Plan de Déroulé Séance 3"
             }
           }
         ]
@@ -169,56 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ded32c0f75b54e89",
+  "active": "5d671a61252872cc",
   "lastOpenFiles": [
-    "Orga séance/Expédition 3/Déroulé Séance 3.md",
     "Orga séance/Expédition 3/Expédition 1.md",
-    "Factions.md",
-    "Règles/Règles Hexploration.md",
-    "Zone/Table des zones.md",
-    "Orga séance/Expédition2/Plan donjon.png",
-    "Orga séance/Expédition2/Déroulé Séance 2.md",
-    "Orga séance/Expédition2",
-    "Orga séance/Expédition 3",
-    "Zone/Rencontres.md",
-    "Zone/Village de pêcheur sur pilotis.md",
-    "Armes Nouvelles/Necromancer + armes .pdf",
-    "Orga séance/Rumeurs.md",
-    "Bestiaire/AdepteSecte.png",
-    "Bestiaire/Profond.png",
-    "Bestiaire/Sahuagin.png",
-    "Bestiaire/Hommes-poissons.png",
-    "Bestiaire/Homme-Lézard.png",
-    "Bestiaire/Evanescent.png",
-    "Bestiaire/Epouvantail.png",
-    "Carte.png",
-    "Bestiaire/Chevalier.png",
-    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
-    "Armes Nouvelles",
-    "Orga séance/Invitation.md",
-    "Orga séance/Séance 2/Déroulé Séance 2.md",
-    "Zone/Cendregarde, la jumelle des terres.md",
-    "Orga séance/Séance 2",
-    "Classes/shd04_cursedscroll2.pdf",
-    "Zone/Port-Néréide, la ville portuaire.md",
-    "Règles/Règles.md",
-    "Classes/Paladin_Class__Playtest (1).pdf",
-    "Classes/Necromancer Playtest 3.pdf",
-    "Zone/Les villes.canvas",
-    "Lore.md",
-    "README.md",
-    "Westmarch.canvas",
-    "Ressources biblio.md",
-    "Interaction factions.canvas",
-    "Classes/shd03_cursedscroll1.pdf",
-    "Orga séance/Liste joueur.euse.md",
-    "Classes/Classes.md",
-    "Carte.md",
-    "Règles Hexploration.md",
-    "Règles.md",
-    "Zone/Contexte.md",
-    "Cartes avec noms région.md",
-    "Sans titre 1.md",
-    "Sans titre.md"
+    "Orga séance/Expédition 3/Déroulé Séance 3.md"
   ]
 }

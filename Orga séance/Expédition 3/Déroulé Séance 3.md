@@ -6,6 +6,8 @@
 - ne sait pas où il les a emmenés
 - Bois des Lucioles contient un camp de bandits!
 
+Zones voisines : 
+
 **Déroulé :** 
 
 Une caravane de marchands est en chemin à quelques jours de voyage en direction de Port-Néréide. Ils sont partis sans escorte car cargaison urgente.
@@ -27,6 +29,19 @@ Episode de mind-game où les joueureuses perdent la mémoire d'une journée comp
 - reprennent connaissance au coin du feu, en dehors de la forêt.
 - avec des séquelles de combat oublié
 - ayant perdu des ressources
+
+=> Enquête à mener sur pourquoi.
+- l'équipe doit faire une enquête inversée
+- qu'ont-ils fait? 
+	- avancés dans la forêt et trouvé le camp = mémoire lavée
+- Que faire?
+	- remonter leurs traces
+	- => tombent sur un groupe de bandits
+		- [[Bandit.png]] x2 ou x3 en fonction
+		- Attaque de deux de front, 3e caché
+	- perdre leur propre piste et remonter celle des bandits
+	- et tomber sur l'Obélisque
+	- 
 
 
 L'autel
