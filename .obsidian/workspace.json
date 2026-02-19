@@ -11,26 +11,26 @@
             "id": "ded32c0f75b54e89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bestiaire/Profond.png"
+                "file": "Zone/Village de pêcheur sur pilotis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Profond"
+              "icon": "lucide-file",
+              "title": "Village de pêcheur sur pilotis"
             }
           },
           {
             "id": "a08e26f09f0fc1f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Zone/Rencontres.md",
-                "mode": "source",
-                "source": false
+                "file": "Armes Nouvelles/Necromancer + armes .pdf"
               },
-              "icon": "lucide-file",
-              "title": "Rencontres"
+              "icon": "lucide-file-text",
+              "title": "Necromancer + armes"
             }
           }
         ]
@@ -184,6 +184,10 @@
   "active": "ded32c0f75b54e89",
   "lastOpenFiles": [
     "Zone/Rencontres.md",
+    "Zone/Village de pêcheur sur pilotis.md",
+    "Armes Nouvelles/Necromancer + armes .pdf",
+    "Orga séance/Rumeurs.md",
+    "Bestiaire/AdepteSecte.png",
     "Bestiaire/Profond.png",
     "Bestiaire/Sahuagin.png",
     "Bestiaire/Hommes-poissons.png",
@@ -195,9 +199,7 @@
     "Bestiaire/Chevalier.png",
     "Bestiaire/Image collée.png",
     "Sorts alignement/Western Reaches Spells (Playtest).pdf",
-    "Armes Nouvelles/Necromancer + armes .pdf",
     "Armes Nouvelles",
-    "Orga séance/Séance 2/Plan donjon.png",
     "Orga séance/Invitation.md",
     "Orga séance/Séance 2/Déroulé Séance 2.md",
     "Zone/Cendregarde, la jumelle des terres.md",
@@ -209,7 +211,6 @@
     "Classes/Paladin_Class__Playtest (1).pdf",
     "Classes/Necromancer Playtest 3.pdf",
     "Zone/Les villes.canvas",
-    "Orga séance/Rumeurs.md",
     "Factions.md",
     "Lore.md",
     "README.md",
@@ -229,7 +230,6 @@
     "Sans titre.md",
     "Zone/Haute-Faille.md",
     "Classes.md",
-    "Classes",
-    "Bestiaire/Griffon.md"
+    "Classes"
   ]
 }
