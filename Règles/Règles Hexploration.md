@@ -18,6 +18,9 @@ Les PJ peuvent voyager 3 jours sans ration puis -1 CONST dmg par jour.
 | Terrain difficile  | 2 hex |
 | Terrain périlleux  | 4 hex |
 | Terrain impossible | impo  |
+Terrain dégagé : prairie, lande.
+Terrain difficile : foret
+Terrain impossible : montagne, marais
 
 **Niveau de danger des hexagones :** 
 Lancer 1D6 par hex 

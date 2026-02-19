@@ -1,7 +1,8 @@
 ![[Carte.png]]
 
-C6 : Petit stèle étrange rongé par la mer.Représente en fait un culte de l'Aboleth.  1d6 chance de trouver des Shanghuni en train de prier et sacrifier des prisonniers. 
+C6 : Petit stèle étrange rongé par la mer. Fouiller l'endroit révèle des ossements rongé par les crabe dans le sable. Représente en fait un culte de l'Aboleth.  1d6 chance de trouver des Shanghuni 1D4 en train de prier et sacrifier des prisonniers. 
 C5 : Repaire des cultistes de l’Aboleth (grotte côtière, accès à la mer souterraine)  
+C8 : Tour de guet des indépendantiste construite dans un arbres énormes. La tour est dissimuler au sein des branches. Permet de surveiller la route. Un petit campement suspendu 
 C9 : Camp des Indépendantistes  
 C11 : Village sur pilotis des pêcheurs du marais ; Maison abandonnée
 
@@ -11,7 +12,13 @@ D7 : Ancien fortin occupé par bandit (expéditon) + puits au squelette
 D12 : Le palais oublié du Roi-Grenouille (grand donjon déjà écrit)
 D13 : Repaire de la Guenaude
 
+E8 :
+E9 : De gros champignons couverts de rosée poussent dans ce
+bosquet baigné de soleil où ils forment un cercle de fées grand comme une maison. À la pleine lune, Titania, reine des fées, apparaît au centre avec une troupe de comédiens qui s’y livrent à de fantasques représentations théâtrales. Tous disparaissent instantanément s’ils apprennent que des mortels les épient. Toute personne capable de voir la pièce jusqu’à son terme reçoit un bienfait aléatoire de Titania (une fois par personne). Tiré du CursedScroll1, a adapté. (adaptation possible, à la place de la pleine lune, zone autour et dans le cercle de champi zone sur pour camper la nuit, pas de rencontre et sur 1,2 D6 de voir la représentation ensuite jet de Dis pour s’approcher et voir)
+
+
 F5 : Tanière de la lionne morte-vivante  
+F8 : 
 F10 : Passage de L’Oiselet (rivière)  
 F13 : Village flottant des hommes-lézards
 
@@ -20,16 +27,21 @@ G6 : La mare au Loup
 G10 : Tanière de l’Ours
 
 H5 : Vieux monastère en ruine (dieu loyal banni)  
-H10 : La gueule de Ramlaat — Cirque rocheux / Arène  
+H10 : La gueule de Ramlaat — Cirque rocheux / Arène  Si quelqu'un affronte et tue un adversaire de sont niveau ou plus à l'intérieur +2 en force.  
 H12 : Tanière des Wyvernes
 
 I3 : Vallée des morts des gobelins (pillée par les nécros)  
-I4 : Chapelle couverte de plantes. 
+I4 : Chapelle couverte de plantes. En lien avec la mare au loup. 
 I9 : Zone des Naïades  
 I10 : Le repaire du leprechaun (aventure déjà écrite)
 I13 : Zone des Naïades
 
+
 J4 : Tanière de l’Ours-Hibou ; Passage de L’Oiselet  
+J7 : Une meute de 16 loups s’est installée ici. L’un d’entre eux
+a la faveur du prince démon Almazzat : aussi grand qu’un cheval, il est doté de
+six yeux (niveau et dégâts x2). Quiconque lui laisse une offrande de viande digne de
+lui reçoit un bienfait de mentor aléatoire de la part d’Almazzat (une fois par personne). Tiré du CursedScroll1, a adapté. 
 J8 : Vieux pont fortifié hanté ; Passage de L’Oiselet ; Zone des Naïades  
 J10 : Repère d’un Troll  
 J11 : Zone des Naïades
