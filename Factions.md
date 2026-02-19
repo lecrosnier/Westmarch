@@ -6,7 +6,8 @@
 
 
 # Les Indépendantistes
-- Chef indépendantistes (style pirates) explorait des grottes sur la cotes quand il a été soumis psychiquement par un Aboleth. 
+- Chef indépendantistes (style pirates) explorait des grottes sur la cotes quand il a été soumis psychiquement par un Aboleth. Capitaine Trévil et ses naufrageurs. 
+- Il y a Tréville et ses lieutenants qui ont été asservi par l'Aboleth et les autres membres des naufrageurs qui ont de gré ou de force commencé à croire au nouveau Dieu de l'océan. Les hommes de Tréville présente leur nouvelle divinité comme le Dieu de l'océan. 
 - l'Aboleth prend peu a peu le contrôle des indépendantistes en se faisant apporter des nouveau "fidèles" qu'il soumet ou transforme les récalcitrant en Profond. 
 - Le chef sous contrôle annonce l'alliance avec les hommes poissons sous couvert de but commun et de vénérer un dieu de l'océan. 
 
@@ -19,7 +20,8 @@
 **Indépendantistes humains encore libre**
 - veulent se couper de la capitale et garder la colonie comme "pays libre" style république pirate. 
 - veulent évincer les hommes poisson depuis qu'ils ont des doutes sur eux. 
-- Commence
+- Marth 
+
 
 
 # Les Fey de la forêt
