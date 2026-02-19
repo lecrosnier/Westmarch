@@ -2,17 +2,18 @@
 
 C6 : Petit stèle étrange rongé par la mer. Fouiller l'endroit révèle des ossements rongé par les crabe dans le sable. Représente en fait un culte de l'Aboleth.  1d6 chance de trouver des Shanghuni 1D4 en train de prier et sacrifier des prisonniers. 
 C5 : Repaire des cultistes de l’Aboleth (grotte côtière, accès à la mer souterraine)  
-C8 : Tour de guet des indépendantiste construite dans un arbres énormes. La tour est dissimuler au sein des branches. Permet de surveiller la route. Un petit campement suspendu 
+C8 : Tour de guet des indépendantiste construite dans un arbres énormes. La tour est dissimulé au sein des branches. Permet de surveiller la route. Un petit campement suspendu dans l'arbre. 
 C9 : Camp des Indépendantistes  
 C11 : Village sur pilotis des pêcheurs du marais ; Maison abandonnée
 
 D3 : Île des naufrageurs  
 D6 : Tanière du Griffon  
+D8 : Un fil au sol déclenche la chute d'un filet. 1D4 tours avant que 1D6 bandits débarque pour récupérer leur prise.  
 D7 : Ancien fortin occupé par bandit (expéditon) + puits au squelette
 D12 : Le palais oublié du Roi-Grenouille (grand donjon déjà écrit)
 D13 : Repaire de la Guenaude
 
-E8 :
+E8 : (peut-être trop tôt d'officialiser la scission des indépendantiste entre le culte de l'Aboleth et les Indépendan de la forêt) 4 pieux avec une tête de Profond fiché dessus, disposé à l'orée de la forêt. Sur un des pieux est graver une menace envers les Profonds (exemple : "Vous voila prévenu")
 E9 : De gros champignons couverts de rosée poussent dans ce
 bosquet baigné de soleil où ils forment un cercle de fées grand comme une maison. À la pleine lune, Titania, reine des fées, apparaît au centre avec une troupe de comédiens qui s’y livrent à de fantasques représentations théâtrales. Tous disparaissent instantanément s’ils apprennent que des mortels les épient. Toute personne capable de voir la pièce jusqu’à son terme reçoit un bienfait aléatoire de Titania (une fois par personne). Tiré du CursedScroll1, a adapté. (adaptation possible, à la place de la pleine lune, zone autour et dans le cercle de champi zone sur pour camper la nuit, pas de rencontre et sur 1,2 D6 de voir la représentation ensuite jet de Dis pour s’approcher et voir)
 
