@@ -8,14 +8,34 @@
 
 **Déroulé :** 
 
-Une caravane de marchands est en chemin à quelques jours de voyage en direction de
+Une caravane de marchands est en chemin à quelques jours de voyage en direction de Port-Néréide. Ils sont partis sans escorte car cargaison urgente.
+Il faut les rattraper pour tenter de les protéger.
+
+En chemin : 
+- trace de lutte, chariot brûlé
+- aucun signe des marchants
+- seul un cadavre calciné est retrouvé
+	- si inspection : impact de flèche dans la tête et fer coincé dans la boîte craniène
+
+Ce qu'il faut chercher : 
+- traces de pas
+- trace de chevaux
+
+=> Arrivée à l'orée de la forêt
+
+Episode de mind-game où les joueureuses perdent la mémoire d'une journée complète
+- reprennent connaissance au coin du feu, en dehors de la forêt.
+- avec des séquelles de combat oublié
+- ayant perdu des ressources
+
 
 L'autel
 
 - Obélisque de quartz noir veiné d'argent
 - nombreux restes humains, récents et anciens
 - odeur de putréfaction et de mort
-- 
+- Nuée de lucioles
+- Silence surnaturel et échos de rires angoissants
 
 
 L'obscurité sous la canopée n'est pas simplement l'absence de lumière ; elle est une présence physique, poisseuse et froide, qui semble étouffer les rares rayons de lune. Nous sommes au cœur du **Bois des Lucioles**, là où les arbres aux écorces blanchâtres ressemblent à des membres tordus par l'agonie.
