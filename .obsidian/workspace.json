@@ -8,21 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ded32c0f75b54e89",
+            "id": "c0543db48ccaee83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles/Règles Hexploration.md",
+                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Règles Hexploration"
+              "title": "Déroulé Séance 3"
             }
           },
           {
-            "id": "bc750567675e6b23",
+            "id": "7d6c42dcb35d31dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga séance/Rumeurs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rumeurs"
+            }
+          },
+          {
+            "id": "8df7bcc1fdc1fb9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +49,25 @@
               "title": "Table des zones"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "e9bc0253f3167f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a08e26f09f0fc1f5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bestiaire/Bandit.png"
+              },
+              "icon": "lucide-image",
+              "title": "Bandit"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +90,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -76,7 +107,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -175,56 +206,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "bc750567675e6b23",
+  "active": "c0543db48ccaee83",
   "lastOpenFiles": [
-    "Orga séance/Expédition2/Plan donjon.png",
     "Orga séance/Expédition2/Déroulé Séance 2.md",
-    "Orga séance/Expédition2",
+    "Règles/Règles.md",
     "Orga séance/Expédition 3/Déroulé Séance 3.md",
-    "Orga séance/Expédition 3",
-    "Règles/Règles Hexploration.md",
-    "Zone/Rencontres.md",
-    "Zone/Village de pêcheur sur pilotis.md",
-    "Armes Nouvelles/Necromancer + armes .pdf",
-    "Orga séance/Rumeurs.md",
-    "Bestiaire/AdepteSecte.png",
-    "Bestiaire/Profond.png",
-    "Bestiaire/Sahuagin.png",
-    "Bestiaire/Hommes-poissons.png",
-    "Bestiaire/Homme-Lézard.png",
-    "Bestiaire/Evanescent.png",
-    "Bestiaire/Epouvantail.png",
+    "Bestiaire/Bandit.png",
     "Zone/Table des zones.md",
-    "Carte.png",
-    "Bestiaire/Chevalier.png",
-    "Bestiaire/Image collée.png",
-    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
-    "Armes Nouvelles",
+    "Orga séance/Rumeurs.md",
+    "Zone/Rencontres.md",
+    "Orga séance/Expédition2/Plan donjon.png",
     "Orga séance/Invitation.md",
-    "Orga séance/Séance 2/Déroulé Séance 2.md",
+    "Zone/Village de pêcheur sur pilotis.md",
+    "Bestiaire/AdepteSecte.png",
+    "Factions.md",
+    "Règles/Règles Hexploration.md",
+    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
+    "Carte.png",
+    "Interaction factions.canvas",
+    "Lore.md",
+    "Armes Nouvelles/Necromancer + armes .pdf",
+    "Orga séance/Expédition 3",
+    "Bestiaire/Sahuagin.png",
+    "Bestiaire/Chevalier.png",
+    "Armes Nouvelles",
+    "Classes/Barde.png",
     "Zone/Cendregarde, la jumelle des terres.md",
-    "Orga séance/Séance 2",
+    "Bestiaire/Dragon 1.png",
+    "Bestiaire/Dragon2.png",
+    "Bestiaire/Fée.png",
+    "Orga séance/Expédition2",
     "Classes/shd04_cursedscroll2.pdf",
     "Zone/Port-Néréide, la ville portuaire.md",
-    "Règles/Règles.md",
     "Classes/Paladin_Class__Playtest (1).pdf",
     "Classes/Necromancer Playtest 3.pdf",
     "Zone/Les villes.canvas",
-    "Factions.md",
-    "Lore.md",
     "README.md",
     "Westmarch.canvas",
     "Ressources biblio.md",
-    "Interaction factions.canvas",
     "Classes/shd03_cursedscroll1.pdf",
     "Orga séance/Liste joueur.euse.md",
     "Classes/Classes.md",
@@ -232,8 +260,10 @@
     "Règles Hexploration.md",
     "Règles.md",
     "Zone/Contexte.md",
+    "Sorts alignement",
     "Cartes avec noms région.md",
     "Sans titre 1.md",
-    "Sans titre.md"
+    "Sans titre.md",
+    "Zone/Haute-Faille.md"
   ]
 }
