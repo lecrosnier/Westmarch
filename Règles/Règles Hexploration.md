@@ -16,14 +16,14 @@ Les PJ peuvent voyager 3 jours sans ration puis -1 CONST dmg par jour.
 | Terrain dégagé     | 1 hex |
 | ------------------ | ----- |
 | Terrain difficile  | 2 hex |
-| Terrain périlleux  | 4 hex |
 | Terrain impossible | impo  |
 Terrain dégagé : prairie, lande.
-Terrain difficile : foret
-Terrain impossible : montagne, marais
+Terrain difficile : foret, montagne, marais
 
 **Niveau de danger des hexagones :** 
-Lancer 1D6 par hex 
+
+**Lancer 2x1D6  par jour et 2x1D6 par nuit.** 
+D12 pour savoir à quelle moment de la journée la rencontre à lieu. 
 
 | sur       | pas de jet D6                |
 | --------- | ---------------------------- |
@@ -45,13 +45,9 @@ Possible sur hexagones déjà parcouru ou sur chemin dégagé.
 **Météo**
 
 
-| 2D6  | Météo      | Visibilité | Diffi terrain | Repos         |
-| ---- | ---------- | ---------- | ------------- | ------------- |
-| 2    | Horrible   | Aucune     | +2 cran       | DD15 CON      |
-| 2-5  | Mauvais    | 1 hex      | + 1 cran      | DD 12 CON     |
-| 6-8  | Normal     | 1 hex      |               |               |
-| 9-11 | Beau       | 1 hex      |               |               |
-| 12   | Magnifique | 2 hex      |               | Avan test CON |
+1D6 lancer par jour. Sur 1 le temps est pourrie, les terrains deviennent difficiles à traverser. Puis sur 1,2,3D6 tempêtes, plus de visibilité.  
+
+Sur un 6, temps magnifiques. ADV sur le prochain jet de météo.  Visibilité de 3 hex au lieu de 2 sur une montagne. 
 
 
 **Tâches durant le voyage**
