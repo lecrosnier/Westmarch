@@ -1,15 +1,15 @@
 Très motivés 
 - Clara +
 - Maxime +
-- Victor 
-- Émeline 
+- Victor +
+- Émeline +
 - Pipou +
-- Tom 
+- Thomas de Pipou +
+- Théo de Pipou+
+
 Intéresser 
 - Brice 
 - Justine
-- Thomas de Pipou +
-- Théo de Pipou
 - Marius
 - Carole
 
