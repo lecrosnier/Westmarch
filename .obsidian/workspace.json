@@ -11,14 +11,12 @@
             "id": "5d671a61252872cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Orga séance/Liste joueur.euse.md",
-                "mode": "source",
-                "source": false
+                "file": "Orga séance/Expédition2/Plan donjon.png"
               },
-              "icon": "lucide-file",
-              "title": "Liste joueur.euse"
+              "icon": "lucide-image",
+              "title": "Plan donjon"
             }
           }
         ]
@@ -171,6 +169,10 @@
   },
   "active": "5d671a61252872cc",
   "lastOpenFiles": [
+    "Orga séance/Expédition2/Déroulé Séance 2.md",
+    "Orga séance/Expédition2/Plan donjon.png",
+    "Orga séance/Liste joueur.euse.md",
+    "Orga séance/Invitation.md",
     "Orga séance/Rumeurs.md",
     "Orga séance/Expédition 3/Déroulé Séance 3.md",
     "Règles/Règles Hexploration.md",
