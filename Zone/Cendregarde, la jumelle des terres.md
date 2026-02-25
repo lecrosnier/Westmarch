@@ -69,4 +69,3 @@ Assistée d'un **Préfet :**
 	- mais gère principalement l'entretien des armes et armures de la garnison
 
 - Bazar : ***Le Sou des Trois Clefs***
-- 

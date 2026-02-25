@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8df7bcc1fdc1fb9b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bestiaire/Warg.png"
+              },
+              "icon": "lucide-image",
+              "title": "Warg"
+            }
+          },
+          {
             "id": "c0543db48ccaee83",
             "type": "leaf",
             "state": {
@@ -20,54 +32,85 @@
               "icon": "lucide-file",
               "title": "Déroulé Séance 3"
             }
-          },
-          {
-            "id": "7d6c42dcb35d31dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga séance/Rumeurs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rumeurs"
-            }
-          },
-          {
-            "id": "8df7bcc1fdc1fb9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zone/Table des zones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Table des zones"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "e9bc0253f3167f4f",
-        "type": "tabs",
+        "id": "46885c6f7def2a5e",
+        "type": "split",
         "children": [
           {
-            "id": "a08e26f09f0fc1f5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bestiaire/Bandit.png"
+            "id": "e9bc0253f3167f4f",
+            "type": "tabs",
+            "dimension": 58.51788756388415,
+            "children": [
+              {
+                "id": "a08e26f09f0fc1f5",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Classes/Paria.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Paria"
+                }
               },
-              "icon": "lucide-image",
-              "title": "Bandit"
-            }
+              {
+                "id": "3c7c2051090270d2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Règles/Règles Hexploration.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Règles Hexploration"
+                }
+              },
+              {
+                "id": "7d6c42dcb35d31dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Zone/Table des zones.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Table des zones"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a575f3e021169144",
+            "type": "tabs",
+            "dimension": 41.48211243611584,
+            "children": [
+              {
+                "id": "3dd667df7a8166de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Zone/Rencontres.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rencontres"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -217,53 +260,53 @@
   },
   "active": "c0543db48ccaee83",
   "lastOpenFiles": [
-    "Orga séance/Expédition2/Déroulé Séance 2.md",
-    "Règles/Règles.md",
+    "Classes/Duelliste.png",
+    "Classes/shd04_cursedscroll2.pdf",
+    "Classes/shd03_cursedscroll1.pdf",
+    "Classes/TitresParPilleu.png",
+    "Classes/Necromancer Playtest 3.pdf",
+    "Classes/Demi-Elf.png",
     "Orga séance/Expédition 3/Déroulé Séance 3.md",
-    "Bestiaire/Bandit.png",
-    "Zone/Table des zones.md",
-    "Orga séance/Rumeurs.md",
-    "Zone/Rencontres.md",
     "Orga séance/Expédition2/Plan donjon.png",
+    "Zone/Cendregarde, la jumelle des terres.md",
+    "Bestiaire/Warg.png",
+    "Bestiaire/Smilodon.png",
+    "Bestiaire/Squelette.png",
+    "Bestiaire/Sahuagin.png",
+    "Classes/Classes.md",
+    "Règles/Règles Hexploration.md",
+    "Classes/Paria.png",
+    "Zone/Table des zones.md",
+    "Ressources biblio.md",
+    "Zone/Rencontres.md",
+    "Classes/PariaMute.png",
+    "Zone/Contexte.md",
+    "Orga séance/Rumeurs.md",
+    "Orga séance/Expédition2/Déroulé Séance 2.md",
+    "Zone/Haute-Faille.md",
+    "Zone/Les villes.canvas",
+    "Règles/Règles.md",
     "Orga séance/Invitation.md",
     "Zone/Village de pêcheur sur pilotis.md",
-    "Bestiaire/AdepteSecte.png",
     "Factions.md",
-    "Règles/Règles Hexploration.md",
     "Sorts alignement/Western Reaches Spells (Playtest).pdf",
-    "Carte.png",
     "Interaction factions.canvas",
     "Lore.md",
     "Armes Nouvelles/Necromancer + armes .pdf",
     "Orga séance/Expédition 3",
-    "Bestiaire/Sahuagin.png",
-    "Bestiaire/Chevalier.png",
     "Armes Nouvelles",
-    "Classes/Barde.png",
-    "Zone/Cendregarde, la jumelle des terres.md",
-    "Bestiaire/Dragon 1.png",
-    "Bestiaire/Dragon2.png",
-    "Bestiaire/Fée.png",
     "Orga séance/Expédition2",
-    "Classes/shd04_cursedscroll2.pdf",
     "Zone/Port-Néréide, la ville portuaire.md",
     "Classes/Paladin_Class__Playtest (1).pdf",
-    "Classes/Necromancer Playtest 3.pdf",
-    "Zone/Les villes.canvas",
     "README.md",
     "Westmarch.canvas",
-    "Ressources biblio.md",
-    "Classes/shd03_cursedscroll1.pdf",
     "Orga séance/Liste joueur.euse.md",
-    "Classes/Classes.md",
     "Carte.md",
     "Règles Hexploration.md",
     "Règles.md",
-    "Zone/Contexte.md",
     "Sorts alignement",
     "Cartes avec noms région.md",
     "Sans titre 1.md",
-    "Sans titre.md",
-    "Zone/Haute-Faille.md"
+    "Sans titre.md"
   ]
 }
