@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "31f2cb1a1dd8f384",
+    "id": "9b3d8cb9909ee8db",
     "type": "split",
     "children": [
       {
-        "id": "713d3bd23ac07efd",
+        "id": "e3a26aaa1a86880a",
         "type": "tabs",
         "children": [
           {
-            "id": "04bb5154f5b63e4d",
+            "id": "e7216bf3f0205867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Règles/Règles Hexploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Règles Hexploration"
+            }
+          },
+          {
+            "id": "94c46d1b727894f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +36,21 @@
             }
           },
           {
-            "id": "c407d2ab91289c21",
+            "id": "b7e6c74143639507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zone/Rencontres.md",
+                "file": "Zone/Village de pêcheur sur pilotis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rencontres"
+              "title": "Village de pêcheur sur pilotis"
             }
           },
           {
-            "id": "d6f8c80064f5017e",
+            "id": "c62ddc03df63135f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,6 +62,18 @@
               "icon": "lucide-file",
               "title": "Table des zones"
             }
+          },
+          {
+            "id": "7fd70058fddf6f9f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Classes/Barde.png"
+              },
+              "icon": "lucide-image",
+              "title": "Barde"
+            }
           }
         ]
       }
@@ -55,15 +81,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b0710e14f3958fa4",
+    "id": "43f53fc9fab3a197",
     "type": "split",
     "children": [
       {
-        "id": "72dbb89b5dd5dd0b",
+        "id": "9dceaf251e4d21b3",
         "type": "tabs",
         "children": [
           {
-            "id": "3840f5266b549197",
+            "id": "fb2fda6d3b5ffa0c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +102,7 @@
             }
           },
           {
-            "id": "2d0267769fb49ec9",
+            "id": "cca6451e49436b94",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +119,7 @@
             }
           },
           {
-            "id": "3d0ab3cd0e305673",
+            "id": "4f20a1c9f0ce9daa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +132,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300
   },
   "right": {
-    "id": "0003bf1ba207958b",
+    "id": "b7e83106b4cc3e89",
     "type": "split",
     "children": [
       {
-        "id": "86e877dbf6d7cb7f",
+        "id": "4fdc2a93950647b0",
         "type": "tabs",
         "children": [
           {
-            "id": "47d9bab6a080d74d",
+            "id": "31a697056138b748",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
+                "file": "Règles/Règles Hexploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +158,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Déroulé Séance 3"
+              "title": "Rétrolien pour Règles Hexploration"
             }
           },
           {
-            "id": "d2e40e2bc5ad8951",
+            "id": "289d984d01ebbdea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
+                "file": "Règles/Règles Hexploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Déroulé Séance 3"
+              "title": "Liens sortants de Règles Hexploration"
             }
           },
           {
-            "id": "0d041fb7f7a90a44",
+            "id": "9a4bf4929437ad6f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,18 +191,18 @@
             }
           },
           {
-            "id": "6324bcbc1b445ee3",
+            "id": "9725048d9842942e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga séance/Expédition 3/Déroulé Séance 3.md",
+                "file": "Règles/Règles Hexploration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Déroulé Séance 3"
+              "title": "Plan de Règles Hexploration"
             }
           }
         ]
@@ -197,24 +223,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "04bb5154f5b63e4d",
+  "active": "e7216bf3f0205867",
   "lastOpenFiles": [
-    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
-    "Orga séance/Expédition 3/Déroulé Séance 3.md",
-    "Zone/Village de pêcheur sur pilotis.md",
-    "Interaction factions.canvas",
-    "Zone/Table des zones.md",
-    "Factions.md",
-    "Zone/Rencontres.md",
-    "Règles/Règles Hexploration.md",
-    "Orga séance/Expédition 4",
-    "Carte.png",
     "Règles/Règles.md",
+    "Règles/Règles Hexploration.md",
+    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
+    "Zone/Table des zones.md",
+    "Zone/Village de pêcheur sur pilotis.md",
+    "Carte.png",
+    "Zone/Rencontres.md",
+    "Classes/Barde.png",
     "Orga séance/Expédition2/Déroulé Séance 2.md",
-    "Orga séance/Expédition2/Plan donjon.png",
-    "Orga séance/Liste joueur.euse.md",
-    "Orga séance/Invitation.md",
-    "Orga séance/Rumeurs.md",
-    "Orga séance/Expédition 3/Expédition 1.md"
+    "Zone/Cendregarde, la jumelle des terres.md",
+    "Orga séance/Expédition 3/Déroulé Séance 3.md"
   ]
 }

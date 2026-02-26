@@ -7,7 +7,7 @@ Classes de base
 - Barde
 
 Classes spécifiques
-- Sorcière
+- Sorcière 
 - Ensorceleur
 - Gladiateur
 - Pilleur de tombes
