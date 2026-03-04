@@ -30,5 +30,9 @@ Cilia une femme d'âge mur, pilier de la communauté, joyeuse, de bon conseil.  
 
 Tulmo ancien pécheur qui à perdu une jambe suite à une attaque de crocodile. Vieil homme énergique unijambiste. 
 
+Ilia et Nok frère et soeur habitant du village. 
+
+
+
 Peuvent parler du donjon du Roi-Grenouille en D12. 
 
