@@ -26,7 +26,7 @@ Marchand fourniture : matériel (torche, ration, corde )
 
 Pas de hiérarchie clair, conseil des anciens du village qui à beaucoup de poids. 
 
-Cilia une femme d'âge mur, pilier de la communauté, joyeuse, de bon conseil.  Elle s'occupe de son grand père Tulmo, membre éminent du conseil des anciens. (La guenaude transformer)
+Cilia une femme d'âge mur, pilier de la communauté, joyeuse, de bon conseil.  Elle s'occupe de son grand père Tulmo, membre éminent du conseil des anciens. (Cilia = La guenaude transformer)
 
 Tulmo ancien pécheur qui à perdu une jambe suite à une attaque de crocodile. Vieil homme énergique unijambiste. 
 
