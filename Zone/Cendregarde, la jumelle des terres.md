@@ -69,5 +69,6 @@ Assistée d'un **Préfet :**
 	- mais gère principalement l'entretien des armes et armures de la garnison
 
 - Bazar : ***Le Sou des Trois Clefs***
+- Zanis Novrod, 
 
-Irnar l’apothicaire en chef de Cendregarde.  
+Maitre Irnar l’apothicaire en chef de Cendregarde.  

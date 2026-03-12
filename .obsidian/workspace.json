@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zone/Village de pêcheur sur pilotis.md",
+                "file": "Règles/Règles Hexploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Village de pêcheur sur pilotis"
-            }
-          },
-          {
-            "id": "c62ddc03df63135f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Découverte du village sur pilotis."
+              "title": "Règles Hexploration"
             }
           }
         ],
@@ -214,12 +200,13 @@
   },
   "active": "b7e6c74143639507",
   "lastOpenFiles": [
-    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
-    "Classes/Barde.png",
-    "Zone/Table des zones.md",
+    "cendregarde.png",
     "Zone/Cendregarde, la jumelle des terres.md",
+    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
     "Zone/Village de pêcheur sur pilotis.md",
     "Règles/Règles Hexploration.md",
+    "Classes/Barde.png",
+    "Zone/Table des zones.md",
     "Règles/Règles.md",
     "Carte.png",
     "Zone/Rencontres.md",

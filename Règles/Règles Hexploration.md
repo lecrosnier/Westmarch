@@ -45,7 +45,7 @@ Possible sur hexagones déjà parcouru ou sur chemin dégagé.
 **Météo**
 
 
-1D6 lancer par jour. Sur 1 le temps est pourrie, les terrains deviennent difficiles à traverser. Puis sur 1,2,3D6 tempêtes, plus de visibilité.  
+1D6 lancer par jour. Sur 1 le temps est pourrie, les terrains deviennent difficiles à traverser. Puis sur 1D6 sur 1 = tempêtes, plus de visibilité.   
 
 Sur un 6, temps magnifiques. ADV sur le prochain jet de météo.  Visibilité de 3 hex au lieu de 2 sur une montagne. 
 
