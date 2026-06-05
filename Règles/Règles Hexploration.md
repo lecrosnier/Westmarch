@@ -50,7 +50,7 @@ Possible sur hexagones déjà parcouru ou sur chemin dégagé.
 Sur un 6, temps magnifiques. ADV sur le prochain jet de météo.  Visibilité de 3 hex au lieu de 2 sur une montagne. 
 
 
-**Tâches durant le voyage**
+**Tâches durant le voyage (à réfléchir si on conserve, ont été éliminé des dernières versions des règles et en jeu rendent redondantes les tâches de camping)**
 
 DD12 par défaut  1 effet par jour (non cumulable) mais les joueurs peuvent tenter la même tâche. 
 
@@ -67,21 +67,22 @@ Prévision INT / SAG Amélio de la météo.
 
 
 
-**Tâches durant le campement** 
+**Tâches durant le campement modif
+** 
 
 DD12 si pas de feu désa. 
 
 
-| Tâche               | Carac   | Effets                                          |
-| ------------------- | ------- | ----------------------------------------------- |
-| Renforcer campement | INT/CON | +1 cran positif météo (1 réussite par jour)     |
-| Cuisiner            | INT/SAG | ration consommé donne +2 PV temporaire (max +6) |
-| Artisanat           | DEX     | 2D4 munitions armes courantes                   |
-| Divertissement      | CHA     | +1 jeton chance                                 |
-| Bois de chauffage   | FOR/CON | feu gratuit                                     |
-| Chasse              | FOR/DEX | rations gratuites                               |
-| Monter la garde     | SAG     | -1 niv. danger durant campement                 |
-| Prédire             | INT/SAG | Connais la météo pour les 3 jours               |
+| Tâche               | Carac   | Effets                                                                                                                                    |
+| ------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Renforcer campement | INT/CON | Pas de test de CON si sommeil interrompu pendant la nuit.                                                                                 |
+| Cuisiner            | INT/SAG | ration consommé donne +2 PV temporaire (max +6)                                                                                           |
+| Artisanat           | DEX     | 2D4 munitions armes courantes ou répare un équipement abîmé.                                                                              |
+| Divertissement      | CHA     | +1 jeton chance                                                                                                                           |
+| Bois de chauffage   | FOR/CON | feu gratuit                                                                                                                               |
+| Chasse              | FOR/DEX | trouve 1D4 rations gratuites                                                                                                              |
+| Monter la garde     | SAG     | Pas de surprise en cas de rencontre durant une moititié de la nuit. (2 dés de renc par nuit donc choix entre 1ère ou 2ème moitié de nuit) |
+| Prédire             | INT/SAG | Peu faire relancer le jet de météo après résultat.                                                                                        |
 
 
 **Retraite** 
