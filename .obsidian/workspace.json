@@ -25,14 +25,12 @@
             "id": "90db85433a60b3f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Règles/Règles Hexploration.md",
-                "mode": "source",
-                "source": false
+                "file": "règle V2 faire la fête/Renom.png"
               },
-              "icon": "lucide-file",
-              "title": "Règles Hexploration"
+              "icon": "lucide-image",
+              "title": "Renom"
             }
           }
         ],
@@ -186,6 +184,15 @@
   },
   "active": "90db85433a60b3f1",
   "lastOpenFiles": [
+    "règle V2 faire la fête/Renom.md",
+    "règle V2 faire la fête/Renom.png",
+    "Classes/Barde.png",
+    "Capture d’écran du 2026-06-16 21-18-31.png",
+    "règle V2 faire la fête/Faire la fête v2.pdf",
+    "Armes Nouvelles/Necromancer + armes .pdf",
+    "Règles/Règle V2 pour faire la fête.md",
+    "règle V2 faire la fête",
+    "Règles/Règles Hexploration.md",
     "Orga séance/Invitation.md",
     "Orga séance/Expédition 7 - 24 avril 2026.md",
     "tableau_personnages_jdr_mis_a_jour.xlsx",
@@ -199,11 +206,7 @@
     "Bestiaire/Guenaude 1.png",
     "Zone/Village de pêcheur sur pilotis.md",
     "Westmarch.canvas",
-    "Sans titre 3.base",
-    "Sans titre 2.base",
-    "Sans titre 1.base",
     "Sans titre.canvas",
-    "Règles/Règles Hexploration.md",
     "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
     "Orga séance/Rumeurs.md",
     "Zone/Haute-Faille.md",
@@ -220,7 +223,6 @@
     "cendregarde.png",
     "Règles/Règles.md",
     "Carte.png",
-    "Classes/Barde.png",
     "Orga séance/Expédition 2/Déroulé Séance 2.md",
     "Orga séance/Expédition 3/Déroulé Séance 3.md"
   ]
