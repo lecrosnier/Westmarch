@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "règle V2 faire la fête/Renom.png"
+                "file": "Classes/Paria.png"
               },
               "icon": "lucide-image",
-              "title": "Renom"
+              "title": "Paria"
             }
           }
         ],
@@ -182,17 +182,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "90db85433a60b3f1",
+  "active": "fb2fda6d3b5ffa0c",
   "lastOpenFiles": [
-    "règle V2 faire la fête/Renom.md",
+    "Classes/PariaMute.png",
+    "Classes/Paria.png",
+    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
+    "Règles/Règles Hexploration.md",
     "règle V2 faire la fête/Renom.png",
+    "règle V2 faire la fête/Renom.md",
     "Classes/Barde.png",
     "Capture d’écran du 2026-06-16 21-18-31.png",
     "règle V2 faire la fête/Faire la fête v2.pdf",
     "Armes Nouvelles/Necromancer + armes .pdf",
     "Règles/Règle V2 pour faire la fête.md",
     "règle V2 faire la fête",
-    "Règles/Règles Hexploration.md",
     "Orga séance/Invitation.md",
     "Orga séance/Expédition 7 - 24 avril 2026.md",
     "tableau_personnages_jdr_mis_a_jour.xlsx",
@@ -201,7 +204,6 @@
     "Carte joueur.png.odt",
     "lu81831i9o7n.tmp",
     "Carte.png.odt",
-    "lu81831i9m9k.tmp",
     "Bestiaire/Guenaude.png",
     "Bestiaire/Guenaude 1.png",
     "Zone/Village de pêcheur sur pilotis.md",

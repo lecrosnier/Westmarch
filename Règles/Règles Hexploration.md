@@ -76,7 +76,7 @@ DD12 si pas de feu désa.
 | Tâche               | Carac   | Effets                                                                                                                                    |
 | ------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Renforcer campement | INT/CON | Pas de test de CON si sommeil interrompu pendant la nuit.                                                                                 |
-| Cuisiner            | INT/SAG | ration consommé donne +2 PV temporaire (max +6)                                                                                           |
+| Cuisiner            | INT/SAG | ration consommé donne +2 PV temporaire                                                                                                    |
 | Artisanat           | DEX     | 2D4 munitions armes courantes ou répare un équipement abîmé.                                                                              |
 | Divertissement      | CHA     | +1 jeton chance                                                                                                                           |
 | Bois de chauffage   | FOR/CON | feu gratuit                                                                                                                               |
