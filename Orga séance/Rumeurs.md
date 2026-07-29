@@ -44,3 +44,13 @@ Autre aventure
 - ne sait pas pourquoi il a capturé des gens
 - ne sait pas où il les a emmenés
 - Bois des Lucioles contient un camp de bandits!
+
+F13 : Le camp de kobolds
+- Les habitants du Gwerm on observé un groupe de kobolds sortir du palais du roi Grenouille
+- Les kobolds semblent s'installer dans le sud du marais, près des montagnes des Pics Foudroyés
+- Certains des hommes lézards les ont reconnus comme des frères de sang froid et les aident à s'installer
+- D'autres voient cela d'un mauvais oeil
+- Les tensions commencent à monter
+
+
+

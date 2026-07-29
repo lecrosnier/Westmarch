@@ -26,6 +26,9 @@ F13 : Village flottant des hommes-lézards
 
 G2 : Nécropole du roi-ange  
 G6 : La mare au Loup 
+- Les noces funèbres
+- mariée dans un cercueil immergé, rejeton vampirique
+- Vampire qui offre la quête
 G10 : Tanière de l’Ours
 
 H5 : Vieux monastère en ruine (dieu loyal banni)  
