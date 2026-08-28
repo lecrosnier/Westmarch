@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga séance/Expédition du 29 Juillet 2026.md",
+                "file": "Orga séance/Expédition Palais Roi Grenouille.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expédition du 29 Juillet 2026"
+              "title": "Expédition Palais Roi Grenouille"
             }
           },
           {
@@ -84,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -214,8 +216,10 @@
   },
   "active": "90db85433a60b3f1",
   "lastOpenFiles": [
-    "Règles/Règles Hexploration.md",
     "Orga séance/Expédition du 29 Juillet 2026.md",
+    "Orga séance/Expédition Palais Roi Grenouille.md",
+    "Sans titre",
+    "Règles/Règles Hexploration.md",
     "Orga séance/Expédition 22 juin 2026.md",
     "Orga séance/Expédition 7 - 24 avril 2026.md",
     "Zone/Table des zones.md",
@@ -241,7 +245,6 @@
     "règle V2 faire la fête",
     "Orga séance/Invitation.md",
     "tableau_personnages_jdr_mis_a_jour.xlsx",
-    "Carte joueur.png.pdf",
     "Bestiaire/Guenaude.png",
     "Bestiaire/Guenaude 1.png",
     "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
