@@ -11,60 +11,57 @@
             "id": "b7e6c74143639507",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga séance/Expédition 7 - 24 avril 2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "duckmage-hex-map",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Expédition 7 - 24 avril 2026"
+              "title": "Hex map — westmarch"
             }
           },
           {
-            "id": "90db85433a60b3f1",
+            "id": "61b94af39f7a5c4b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Interaction factions.canvas",
+                "viewState": {
+                  "x": -139,
+                  "y": -394,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Interaction factions"
+            }
+          },
+          {
+            "id": "796a7863b0f53435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga séance/Expédition Palais Roi Grenouille.md",
+                "file": "Monde/Factions/Guenaudes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expédition Palais Roi Grenouille"
+              "title": "Guenaudes"
             }
           },
           {
-            "id": "1dc7b6f14e4b5095",
+            "id": "c72b04c88d8834e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Zone/Table des zones.md",
-                "mode": "source",
-                "source": false
+                "file": "Carte.png"
               },
-              "icon": "lucide-file",
-              "title": "Table des zones"
-            }
-          },
-          {
-            "id": "40ccbad8194cd961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Règles/Règles Hexploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Règles Hexploration"
+              "icon": "lucide-image",
+              "title": "Carte"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,57 +208,61 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "90db85433a60b3f1",
+  "active": "c72b04c88d8834e7",
   "lastOpenFiles": [
-    "Orga séance/Expédition du 29 Juillet 2026.md",
-    "Orga séance/Expédition Palais Roi Grenouille.md",
-    "Sans titre",
-    "Règles/Règles Hexploration.md",
-    "Orga séance/Expédition 22 juin 2026.md",
-    "Orga séance/Expédition 7 - 24 avril 2026.md",
-    "Zone/Table des zones.md",
+    "Zone/Contexte.md",
+    "Capture d’écran du 2026-06-16 21-18-31.png",
+    "Interaction factions.canvas",
+    "world/factions/Fey.md",
+    "world/factions",
     "Zone/Rencontres.md",
-    "Zone/Village de pêcheur sur pilotis.md",
-    "Westmarch.canvas",
+    "Monde/Factions/Guenaudes.md",
+    "Monde/Factions/Fey.md",
+    "Factions.md",
+    "Monde/Factions/Gobelins.md",
+    "Monde/Factions/Nécroment.md",
+    "Monde/Factions/Indépendantistes.md",
+    "Zone/Table des zones.md",
+    "Zone/Donjons/La hutte de l'Ogresse gourmet.md",
+    "world/towns/Cendregarde.md",
+    "Zone/Villes",
+    "Orga séance/Expédition 7 - 24 avril 2026.md",
+    "Zone/Villes/Village de pêcheur sur pilotis.md",
+    "Monde/hexes/westmarch/8_8.md",
+    "Zone/Villes/Cendregarde, la jumelle des terres.md",
+    "Zone/Villes/cendregarde.png",
+    "Zone/Villes/Port-Néréide, la ville portuaire.md",
+    "Carte.png",
+    "Monde/hexes/westmarch/16_1.md",
+    "Carte joueur.png.pdf",
+    "Ressources biblio.md",
+    "README.md",
+    "world/hexes/westmarch/1_5.md",
+    "Sans titre.base",
     "Sans titre 3.base",
     "Sans titre 2.base",
     "Sans titre 1.base",
     "Sans titre.canvas",
-    "Sans titre.base",
-    "Orga séance/Liste joueur.euse.md",
+    "Monde/hextemplate.md",
+    "Lore.md",
+    "Monde/tables/landmark.md",
+    "Monde/tables/hidden.md",
+    "Monde/hexes/westmarch/2_1.md",
+    "Westmarch.canvas",
+    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png",
+    "Monde/hexes/westmarch",
+    "Monde/tables/terrain/encounters",
+    "Monde/tables/terrain/description",
     "Classes/Paria.png",
     "Classes/PariaMute.png",
-    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
     "règle V2 faire la fête/Renom.png",
-    "règle V2 faire la fête/Renom.md",
     "Classes/Barde.png",
-    "Capture d’écran du 2026-06-16 21-18-31.png",
-    "règle V2 faire la fête/Faire la fête v2.pdf",
-    "Armes Nouvelles/Necromancer + armes .pdf",
-    "Règles/Règle V2 pour faire la fête.md",
-    "règle V2 faire la fête",
-    "Orga séance/Invitation.md",
-    "tableau_personnages_jdr_mis_a_jour.xlsx",
     "Bestiaire/Guenaude.png",
     "Bestiaire/Guenaude 1.png",
-    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
-    "Orga séance/Rumeurs.md",
-    "Zone/Haute-Faille.md",
-    "Zone/Contexte.md",
-    "Zone/Les villes.canvas",
-    "Zone/La hutte de l'Ogresse gourmet.md",
-    "Zone/Port-Néréide, la ville portuaire.md",
-    "Zone/Cendregarde, la jumelle des terres.md",
-    "Lore.md",
-    "Interaction factions.canvas",
-    "Factions.md",
-    "cendregarde.png",
-    "Règles/Règles.md",
-    "Carte.png",
-    "Orga séance/Expédition 2/Déroulé Séance 2.md",
-    "Orga séance/Expédition 3/Déroulé Séance 3.md"
+    "Zone/Villes/Les villes.canvas"
   ]
 }
