@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7e6c74143639507",
+            "id": "961a8607a1e1a82c",
             "type": "leaf",
             "state": {
               "type": "duckmage-hex-map",
@@ -59,9 +59,19 @@
               "icon": "lucide-image",
               "title": "Carte"
             }
+          },
+          {
+            "id": "3435fb903941ef54",
+            "type": "leaf",
+            "state": {
+              "type": "duckmage-hex-map",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Hex map — westmarch"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,11 +222,16 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "c72b04c88d8834e7",
+  "active": "3435fb903941ef54",
   "lastOpenFiles": [
-    "Zone/Contexte.md",
-    "Capture d’écran du 2026-06-16 21-18-31.png",
     "Interaction factions.canvas",
+    "Carte.png",
+    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png",
+    "Zone/Villes/Port-Néréide, la ville portuaire.md",
+    "Zone/Villes/cendregarde.png",
+    "Capture d’écran du 2026-06-16 21-18-31.png",
+    "Monde/hexes/westmarch/8_8.md",
+    "Zone/Contexte.md",
     "world/factions/Fey.md",
     "world/factions",
     "Zone/Rencontres.md",
@@ -232,11 +247,7 @@
     "Zone/Villes",
     "Orga séance/Expédition 7 - 24 avril 2026.md",
     "Zone/Villes/Village de pêcheur sur pilotis.md",
-    "Monde/hexes/westmarch/8_8.md",
     "Zone/Villes/Cendregarde, la jumelle des terres.md",
-    "Zone/Villes/cendregarde.png",
-    "Zone/Villes/Port-Néréide, la ville portuaire.md",
-    "Carte.png",
     "Monde/hexes/westmarch/16_1.md",
     "Carte joueur.png.pdf",
     "Ressources biblio.md",
@@ -251,9 +262,7 @@
     "Lore.md",
     "Monde/tables/landmark.md",
     "Monde/tables/hidden.md",
-    "Monde/hexes/westmarch/2_1.md",
     "Westmarch.canvas",
-    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png",
     "Monde/hexes/westmarch",
     "Monde/tables/terrain/encounters",
     "Monde/tables/terrain/description",
