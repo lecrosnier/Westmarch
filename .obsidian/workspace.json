@@ -8,7 +8,11 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "3d4bcf056d8895c5",
+=======
+            "id": "961a8607a1e1a82c",
+>>>>>>> f1656bbd610e424df5e6d69659c9c9005611bfce
             "type": "leaf",
             "state": {
               "type": "duckmage-hex-map",
@@ -37,8 +41,23 @@
               "title": "Westmarch"
 >>>>>>> Stashed changes
             }
+          },
+          {
+            "id": "3435fb903941ef54",
+            "type": "leaf",
+            "state": {
+              "type": "duckmage-hex-map",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Hex map — westmarch"
+            }
           }
+<<<<<<< HEAD
         ]
+=======
+        ],
+        "currentTab": 4
+>>>>>>> f1656bbd610e424df5e6d69659c9c9005611bfce
       }
     ],
     "direction": "vertical"
@@ -189,6 +208,7 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   "active": "3d4bcf056d8895c5",
   "lastOpenFiles": [
@@ -235,6 +255,52 @@
     "Westmarch.canvas",
     "Zone/Villes/cendregarde.png",
     "Sans titre.canvas",
+=======
+  "active": "3435fb903941ef54",
+  "lastOpenFiles": [
+    "Interaction factions.canvas",
+    "Carte.png",
+    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png",
+    "Zone/Villes/Port-Néréide, la ville portuaire.md",
+    "Zone/Villes/cendregarde.png",
+    "Capture d’écran du 2026-06-16 21-18-31.png",
+    "Monde/hexes/westmarch/8_8.md",
+    "Zone/Contexte.md",
+    "world/factions/Fey.md",
+    "world/factions",
+    "Zone/Rencontres.md",
+    "Monde/Factions/Guenaudes.md",
+    "Monde/Factions/Fey.md",
+    "Factions.md",
+    "Monde/Factions/Gobelins.md",
+    "Monde/Factions/Nécroment.md",
+    "Monde/Factions/Indépendantistes.md",
+    "Zone/Table des zones.md",
+    "Zone/Donjons/La hutte de l'Ogresse gourmet.md",
+    "world/towns/Cendregarde.md",
+    "Zone/Villes",
+    "Orga séance/Expédition 7 - 24 avril 2026.md",
+    "Zone/Villes/Village de pêcheur sur pilotis.md",
+    "Zone/Villes/Cendregarde, la jumelle des terres.md",
+    "Monde/hexes/westmarch/16_1.md",
+    "Carte joueur.png.pdf",
+    "Ressources biblio.md",
+    "README.md",
+    "world/hexes/westmarch/1_5.md",
+    "Sans titre.base",
+    "Sans titre 3.base",
+    "Sans titre 2.base",
+    "Sans titre 1.base",
+    "Sans titre.canvas",
+    "Monde/hextemplate.md",
+    "Lore.md",
+    "Monde/tables/landmark.md",
+    "Monde/tables/hidden.md",
+    "Westmarch.canvas",
+    "Monde/hexes/westmarch",
+    "Monde/tables/terrain/encounters",
+    "Monde/tables/terrain/description",
+>>>>>>> f1656bbd610e424df5e6d69659c9c9005611bfce
     "Classes/Paria.png",
     "Classes/PariaMute.png",
     "règle V2 faire la fête/Renom.png",
