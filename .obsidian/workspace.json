@@ -14,7 +14,28 @@
               "type": "duckmage-hex-map",
               "state": {},
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Hex map — m"
+=======
+              "title": "Expédition 7 - 24 avril 2026"
+            }
+          },
+          {
+            "id": "90db85433a60b3f1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Westmarch.canvas",
+                "viewState": {
+                  "x": 200,
+                  "y": 200,
+                  "zoom": -0.44596935883073463
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Westmarch"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -168,6 +189,7 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
+<<<<<<< Updated upstream
   "active": "3d4bcf056d8895c5",
   "lastOpenFiles": [
     "world/hextemplate.md",
@@ -220,5 +242,56 @@
     "Bestiaire/Guenaude.png",
     "Bestiaire/Guenaude 1.png",
     "Zone/Villes/Les villes.canvas"
+=======
+  "active": "90db85433a60b3f1",
+  "lastOpenFiles": [
+    "Sans titre 1.base",
+    "Sans titre.canvas",
+    "Sans titre.base",
+    "règle V2 faire la fête/Renom.png",
+    "Capture d’écran du 2026-06-16 21-18-31.png",
+    "Orga séance/Expédition 22 juin 2026.md",
+    "Orga séance/Expédition 7 - 24 avril 2026.md",
+    "Zone/Rencontres.md",
+    "Zone/Table des zones.md",
+    "Zone/Les villes.canvas",
+    "Zone/Port-Néréide, la ville portuaire.md",
+    "Carte.png",
+    "Règles/Règles Hexploration.md",
+    "Lore.md",
+    "README.md",
+    "Ressources biblio.md",
+    "Sans titre 3.base",
+    "Westmarch.canvas",
+    "Sans titre 2.base",
+    "cendregarde.png",
+    "Factions.md",
+    "Orga séance/Expédition 3/Déroulé Séance 3.md",
+    "Orga séance/Rumeurs.md",
+    "Orga séance/Liste joueur.euse.md",
+    "Carte joueur.png.pdf",
+    "Classes/Paria.png",
+    "Classes/PariaMute.png",
+    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
+    "règle V2 faire la fête/Renom.md",
+    "Classes/Barde.png",
+    "règle V2 faire la fête/Faire la fête v2.pdf",
+    "Armes Nouvelles/Necromancer + armes .pdf",
+    "Règles/Règle V2 pour faire la fête.md",
+    "règle V2 faire la fête",
+    "Orga séance/Invitation.md",
+    "tableau_personnages_jdr_mis_a_jour.xlsx",
+    "Bestiaire/Guenaude.png",
+    "Bestiaire/Guenaude 1.png",
+    "Zone/Village de pêcheur sur pilotis.md",
+    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
+    "Zone/Haute-Faille.md",
+    "Zone/Contexte.md",
+    "Zone/La hutte de l'Ogresse gourmet.md",
+    "Zone/Cendregarde, la jumelle des terres.md",
+    "Interaction factions.canvas",
+    "Règles/Règles.md",
+    "Orga séance/Expédition 2/Déroulé Séance 2.md"
+>>>>>>> Stashed changes
   ]
 }
