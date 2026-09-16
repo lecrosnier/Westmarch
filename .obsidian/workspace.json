@@ -1,77 +1,41 @@
 {
   "main": {
-    "id": "9b3d8cb9909ee8db",
+    "id": "3cc3560da0422cc7",
     "type": "split",
     "children": [
       {
-        "id": "a16a6684460f18d2",
+        "id": "6b8843cef235528e",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "3d4bcf056d8895c5",
-=======
-            "id": "961a8607a1e1a82c",
->>>>>>> f1656bbd610e424df5e6d69659c9c9005611bfce
+            "id": "792cea97ec64c458",
             "type": "leaf",
             "state": {
-              "type": "duckmage-hex-map",
-              "state": {},
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Hex map — m"
-=======
-              "title": "Expédition 7 - 24 avril 2026"
-            }
-          },
-          {
-            "id": "90db85433a60b3f1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Westmarch.canvas",
-                "viewState": {
-                  "x": 200,
-                  "y": 200,
-                  "zoom": -0.44596935883073463
-                }
+                "file": "Orga séance/Expédition Palais Roi Grenouille.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Westmarch"
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "3435fb903941ef54",
-            "type": "leaf",
-            "state": {
-              "type": "duckmage-hex-map",
-              "state": {},
               "icon": "lucide-file",
-              "title": "Hex map — westmarch"
+              "title": "Expédition Palais Roi Grenouille"
             }
           }
-<<<<<<< HEAD
         ]
-=======
-        ],
-        "currentTab": 4
->>>>>>> f1656bbd610e424df5e6d69659c9c9005611bfce
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "43f53fc9fab3a197",
+    "id": "0deecdaef565b3a8",
     "type": "split",
     "children": [
       {
-        "id": "9dceaf251e4d21b3",
+        "id": "36f03d0a5702e77d",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2fda6d3b5ffa0c",
+            "id": "57635fd0f3073b63",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,12 +50,12 @@
             }
           },
           {
-            "id": "cca6451e49436b94",
+            "id": "93d45c82013606c5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Cilia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,11 +67,14 @@
             }
           },
           {
-            "id": "4f20a1c9f0ce9daa",
+            "id": "9e0565502f8aa3cd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
@@ -116,23 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 300
   },
   "right": {
-    "id": "b7e83106b4cc3e89",
+    "id": "623dd6d5e05388ef",
     "type": "split",
     "children": [
       {
-        "id": "4fdc2a93950647b0",
+        "id": "248bd6ce31e531a2",
         "type": "tabs",
         "children": [
           {
-            "id": "31a697056138b748",
+            "id": "87d397cd43a982a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Règles/Règles Hexploration.md",
+                "file": "Orga séance/Expédition Palais Roi Grenouille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Règles Hexploration"
+              "title": "Rétroliens"
             }
           },
           {
-            "id": "289d984d01ebbdea",
+            "id": "f4800ffb90d1cf70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Règles/Règles Hexploration.md",
+                "file": "Orga séance/Expédition Palais Roi Grenouille.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Règles Hexploration"
+              "title": "Liens sortants"
             }
           },
           {
-            "id": "9a4bf4929437ad6f",
+            "id": "f434170f1e3d8848",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,18 +142,18 @@
             }
           },
           {
-            "id": "9725048d9842942e",
+            "id": "f1fa13fe02ae2533",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Règles/Règles Hexploration.md",
+                "file": "Orga séance/Expédition Palais Roi Grenouille.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Règles Hexploration"
+              "title": "Plan"
             }
           }
         ]
@@ -198,166 +165,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  "active": "3d4bcf056d8895c5",
+  "active": "57635fd0f3073b63",
   "lastOpenFiles": [
-    "world/hextemplate.md",
-    "Monde/hexes/m/19_15.md",
-    "Monde/hexes/m/19_14.md",
-    "Monde/hexes/m/19_13.md",
-    "Monde/hexes/m/19_12.md",
-    "Monde/hexes/m/19_11.md",
-    "Monde/hexes/m/19_10.md",
-    "Monde/hexes/m/19_9.md",
-    "Monde/hexes/m/19_8.md",
-    "Monde/hexes/m/19_7.md",
-    "Monde/hexes/m/19_6.md",
-    "Monde/hexes/m/19_5.md",
-    "Monde/hexes/m/19_4.md",
-    "Monde/hexes/m/19_3.md",
-    "Monde/hexes/m/19_2.md",
-    "Monde/hexes/m/19_1.md",
-    "Monde/hexes/m/19_0.md",
-    "Monde/hexes/m/18_15.md",
-    "Monde/hexes/m/18_14.md",
-    "Monde/hexes/m/18_13.md",
-    "Monde/hexes/m/18_12.md",
-    "Monde/hexes/m/18_11.md",
-    "Monde/hexes/m/18_10.md",
-    "Monde/hexes/m/18_9.md",
-    "Monde/hexes/m/18_8.md",
-    "Monde/hexes/m/18_7.md",
-    "Monde/hexes/m",
-    "Monde/workflows",
-    "Monde/regions",
-    "Monde/factions",
-    "Monde/features",
-    "Monde/quests",
-    "Monde/dungeons",
-    "Monde/towns",
-    "Capture d’écran du 2026-06-16 21-18-31.png",
-    "Carte.png",
-    "Carte joueur.png.pdf",
-    "world/icons",
-    "Interaction factions.canvas",
-    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png",
-    "Westmarch.canvas",
-    "Zone/Villes/cendregarde.png",
-    "Sans titre.canvas",
-=======
-  "active": "3435fb903941ef54",
-  "lastOpenFiles": [
-    "Interaction factions.canvas",
-    "Carte.png",
-    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png",
-    "Zone/Villes/Port-Néréide, la ville portuaire.md",
-    "Zone/Villes/cendregarde.png",
-    "Capture d’écran du 2026-06-16 21-18-31.png",
-    "Monde/hexes/westmarch/8_8.md",
-    "Zone/Contexte.md",
-    "world/factions/Fey.md",
-    "world/factions",
-    "Zone/Rencontres.md",
-    "Monde/Factions/Guenaudes.md",
-    "Monde/Factions/Fey.md",
-    "Factions.md",
-    "Monde/Factions/Gobelins.md",
-    "Monde/Factions/Nécroment.md",
-    "Monde/Factions/Indépendantistes.md",
     "Zone/Table des zones.md",
-    "Zone/Donjons/La hutte de l'Ogresse gourmet.md",
-    "world/towns/Cendregarde.md",
-    "Zone/Villes",
-    "Orga séance/Expédition 7 - 24 avril 2026.md",
-    "Zone/Villes/Village de pêcheur sur pilotis.md",
-    "Zone/Villes/Cendregarde, la jumelle des terres.md",
-    "Monde/hexes/westmarch/16_1.md",
-    "Carte joueur.png.pdf",
-    "Ressources biblio.md",
-    "README.md",
-    "world/hexes/westmarch/1_5.md",
-    "Sans titre.base",
-    "Sans titre 3.base",
-    "Sans titre 2.base",
-    "Sans titre 1.base",
-    "Sans titre.canvas",
-    "Monde/hextemplate.md",
-    "Lore.md",
-    "Monde/tables/landmark.md",
-    "Monde/tables/hidden.md",
-    "Westmarch.canvas",
-    "Monde/hexes/westmarch",
-    "Monde/tables/terrain/encounters",
-    "Monde/tables/terrain/description",
->>>>>>> f1656bbd610e424df5e6d69659c9c9005611bfce
-    "Classes/Paria.png",
-    "Classes/PariaMute.png",
-    "règle V2 faire la fête/Renom.png",
-    "Classes/Barde.png",
-    "Bestiaire/Guenaude.png",
-    "Bestiaire/Guenaude 1.png",
-    "Zone/Villes/Les villes.canvas"
-=======
-  "active": "90db85433a60b3f1",
-  "lastOpenFiles": [
-    "Sans titre 1.base",
-    "Sans titre.canvas",
-    "Sans titre.base",
-    "règle V2 faire la fête/Renom.png",
-    "Capture d’écran du 2026-06-16 21-18-31.png",
-    "Orga séance/Expédition 22 juin 2026.md",
-    "Orga séance/Expédition 7 - 24 avril 2026.md",
-    "Zone/Rencontres.md",
-    "Zone/Table des zones.md",
-    "Zone/Les villes.canvas",
-    "Zone/Port-Néréide, la ville portuaire.md",
     "Carte.png",
-    "Règles/Règles Hexploration.md",
-    "Lore.md",
-    "README.md",
-    "Ressources biblio.md",
-    "Sans titre 3.base",
-    "Westmarch.canvas",
-    "Sans titre 2.base",
-    "cendregarde.png",
     "Factions.md",
-    "Orga séance/Expédition 3/Déroulé Séance 3.md",
-    "Orga séance/Rumeurs.md",
-    "Orga séance/Liste joueur.euse.md",
     "Carte joueur.png.pdf",
-    "Classes/Paria.png",
-    "Classes/PariaMute.png",
-    "Sorts alignement/Western Reaches Spells (Playtest).pdf",
-    "règle V2 faire la fête/Renom.md",
-    "Classes/Barde.png",
-    "règle V2 faire la fête/Faire la fête v2.pdf",
-    "Armes Nouvelles/Necromancer + armes .pdf",
-    "Règles/Règle V2 pour faire la fête.md",
-    "règle V2 faire la fête",
-    "Orga séance/Invitation.md",
-    "tableau_personnages_jdr_mis_a_jour.xlsx",
-    "Bestiaire/Guenaude.png",
-    "Bestiaire/Guenaude 1.png",
-    "Zone/Village de pêcheur sur pilotis.md",
-    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
-    "Zone/Haute-Faille.md",
-    "Zone/Contexte.md",
-    "Zone/La hutte de l'Ogresse gourmet.md",
-    "Zone/Cendregarde, la jumelle des terres.md",
-    "Interaction factions.canvas",
-    "Règles/Règles.md",
-    "Orga séance/Expédition 2/Déroulé Séance 2.md"
->>>>>>> Stashed changes
+    "Monde/hextemplate.md"
   ]
 }
