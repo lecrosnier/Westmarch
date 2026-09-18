@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "311b1509cde525e8",
+        "id": "495fa35d0f6c40b3",
         "type": "tabs",
         "children": [
           {
-            "id": "792cea97ec64c458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expédition du 17 sept 2026"
-            }
-          },
-          {
-            "id": "52ec9bd318120a4d",
+            "id": "86b1d8f9443b0fd6",
             "type": "leaf",
             "state": {
               "type": "duckmage-hex-map",
@@ -30,41 +16,9 @@
               "icon": "lucide-file",
               "title": "Hex map — westmarch"
             }
-          }
-        ]
-      },
-      {
-        "id": "b77a12f938ec0625",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5ed38dfe42075ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Règles/Règles Hexploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Règles Hexploration"
-            }
           },
           {
-            "id": "8c9be3b307ba06d0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Carte.png"
-              },
-              "icon": "lucide-image",
-              "title": "Carte"
-            }
-          },
-          {
-            "id": "8b94b2be1a18cae1",
+            "id": "d377aec6b0eed3b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,8 +30,35 @@
               "icon": "lucide-file",
               "title": "Table des zones"
             }
+          },
+          {
+            "id": "847aef68e9369f57",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Carte.png"
+              },
+              "icon": "lucide-image",
+              "title": "Carte"
+            }
+          },
+          {
+            "id": "e0d5acdf7c571624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monde/hexes/westmarch/10_13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10_13"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,16 +212,28 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "792cea97ec64c458",
+  "active": "e0d5acdf7c571624",
   "lastOpenFiles": [
-    "Règles/Règles Hexploration.md",
-    "Carte.png",
+    "Monde/hexes/westmarch/zone_naiades.md",
+    "Monde/hexes/westmarch/passage_oiselet.md",
+    "Monde/hexes/westmarch/passage_ganse.md",
+    "Monde/hexes/westmarch/5_3.md",
     "Zone/Table des zones.md",
-    "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026.md",
+    "Monde/hexes/westmarch/4_8.md",
+    "Carte.png",
+    "Monde/hexes/westmarch/4_6.md",
     "Monde/hexes/westmarch/11_7.md",
-    "Pasted image 20260917204351.png",
-    "Orga séance/Expédition 2/Déroulé Séance 2.md",
+    "world/hextemplate.md",
     "Orga séance/Expédition 3/Déroulé Séance 3.md",
+    "règle V2 faire la fête/Faire la fête v2.pdf",
+    "règle V2 faire la fête/Renom.png",
+    "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026.md",
+    "Règles/Bienfaits d'Almazzat.png",
+    "Monde/hexes/westmarch/2_1.md",
+    "Monde/hexes/westmarch/8_6.md",
+    "Monde/hextemplate.md",
+    "Règles/Règles Hexploration.md",
+    "Orga séance/Expédition 2/Déroulé Séance 2.md",
     "Zone/Villes/Cendregarde, la jumelle des terres.md",
     "Zone/Villes/cendregarde.png",
     "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
@@ -250,21 +243,12 @@
     "Zone/Villes/Port-Néréide, la ville portuaire.md",
     "Carte joueur.png.pdf",
     "Zone/Rencontres.md",
-    "world/hextemplate.md",
     "Règles/Règles.md",
     "Orga séance/Expédition du 17 sept 2026/carte_forteresse_dib_fr.jpg",
     "Orga séance/Expédition du 17 sept 2026/carte_mines_de_moelle_fr.jpg",
     "Orga séance/Expédition du 17 sept 2026",
     "Monde/tables/terrain/description/desert rocky.md",
     "Monde/tables/terrain/description/cliffs.md",
-    "Monde/tables/terrain/description/beach.md",
-    "Monde/tables/terrain/description/badlands.md",
-    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png",
-    "Monde/Factions/Fey.md",
-    "Monde/Factions/Guenaudes.md",
-    "Monde/Factions/Gobelins.md",
-    "Monde/Factions/Indépendantistes.md",
-    "Monde/Factions/Nécroment.md",
-    "Orga séance/Expédition Palais Roi Grenouille.md"
+    "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png"
   ]
 }
