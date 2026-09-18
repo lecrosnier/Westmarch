@@ -6,7 +6,7 @@ Histoire :
 - Dépendante l'import maritime
 - À une mauvaise récolte de la famine
 - Ville comptant principalement des soldats, qui gèrent certains commerces
-
+![[cendregarde.png]]
 **Dirigée par :**
 - Un Tribun : **Isadora Ekion**
 	- jeune sénatrice 
