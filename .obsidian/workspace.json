@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "847aef68e9369f57",
+            "id": "dc0ed4a2208abf33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,15 +32,15 @@
             }
           },
           {
-            "id": "68c01c3e86e77230",
+            "id": "2e3d9773562700ec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "Carte.png"
               },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.14.4"
+              "icon": "lucide-image",
+              "title": "Carte"
             }
           }
         ],
@@ -198,16 +198,26 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "847aef68e9369f57",
+  "active": "dc0ed4a2208abf33",
   "lastOpenFiles": [
-    "Zone/Table des zones.md",
+    "Carte.png",
     "Zone/Les nains d'Argis des Glas..md",
-    "Zone/Rencontres.md",
     "Factions.md",
+    "Carte joueur.png.pdf",
+    "Mercenaires à recruter/Puuhilsk Assa.pdf",
+    "Mercenaires à recruter/Nirin clerc.pdf",
+    "Mercenaires à recruter/Lorrin Larnste voleur.pdf",
+    "Mercenaires à recruter/Hord Guerr.pdf",
+    "Mercenaires à recruter/Hasc Guerr.pdf",
+    "Mercenaires à recruter/Grathglakh Guerr.pdf",
+    "Mercenaires à recruter/Drim Bard.pdf",
+    "Mercenaires à recruter/Dazaroth Gla.pdf",
+    "Mercenaires à recruter/Chevonde Ranger.pdf",
+    "Zone/Table des zones.md",
+    "Zone/Rencontres.md",
     "Lore.md",
     "Classes/Barde.png",
     "Classes/Paria.png",
-    "Carte.png",
     "Monde/hexes/westmarch/13_4.md",
     "Monde/hexes/westmarch/10_13.md",
     "Monde/hexes/westmarch/zone_naiades.md",
@@ -219,7 +229,6 @@
     "Monde/hexes/westmarch/11_7.md",
     "world/hextemplate.md",
     "Orga séance/Expédition 3/Déroulé Séance 3.md",
-    "règle V2 faire la fête/Faire la fête v2.pdf",
     "règle V2 faire la fête/Renom.png",
     "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026.md",
     "Règles/Bienfaits d'Almazzat.png",
@@ -232,11 +241,8 @@
     "Zone/Villes/cendregarde.png",
     "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
     "Orga séance/Expédition 7 - 24 avril 2026.md",
-    "Orga séance/Expédition 22 juin 2026.md",
-    "Carte joueur.png.pdf",
     "Orga séance/Expédition du 17 sept 2026/carte_forteresse_dib_fr.jpg",
     "Orga séance/Expédition du 17 sept 2026/carte_mines_de_moelle_fr.jpg",
-    "Orga séance/Expédition du 17 sept 2026",
     "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png"
   ]
 }
