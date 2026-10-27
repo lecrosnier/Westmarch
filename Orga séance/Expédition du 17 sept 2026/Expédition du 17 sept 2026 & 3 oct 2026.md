@@ -5,6 +5,16 @@ Miette la Ricoche - Halfelin édenté et tatoué
 Gicien le Nain
 Corimbe, pretresse => Morte dans un flamboyant éclat
 
+## 3 oct 2026
+Bourse'Hein - Humain gladiateur
+Miette la Ricoche - Halfelin
+Marslin - Ras Godaï
+Ongédrite - Humain mage 
+
+
+8 gob
+
+
 ## Notes d'adaptation
 
 - **Niveau visé :** personnages de **niveau 0** (entonnoir, 6 à 10 personnages) ou **niveau 1** (4 à 5 personnages). Quand un nombre est donné sous la forme « 3 (5) », utilisez le premier pour le niveau 0 et le second pour le niveau 1.

@@ -6,9 +6,24 @@
       {
         "id": "495fa35d0f6c40b3",
         "type": "tabs",
+        "dimension": 46.804260985352855,
         "children": [
           {
-            "id": "86b1d8f9443b0fd6",
+            "id": "d377aec6b0eed3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga séance/Expédition du 29 Juillet 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expédition du 29 Juillet 2026"
+            }
+          },
+          {
+            "id": "e0d5acdf7c571624",
             "type": "leaf",
             "state": {
               "type": "duckmage-hex-map",
@@ -18,47 +33,42 @@
             }
           },
           {
-            "id": "d377aec6b0eed3b1",
+            "id": "752635cf90498990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zone/Table des zones.md",
+                "file": "Zone/Villes/Port-Néréide, la ville portuaire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table des zones"
-            }
-          },
-          {
-            "id": "847aef68e9369f57",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Carte.png"
-              },
-              "icon": "lucide-image",
-              "title": "Carte"
-            }
-          },
-          {
-            "id": "e0d5acdf7c571624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monde/hexes/westmarch/10_13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10_13"
+              "title": "Port-Néréide, la ville portuaire"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "5a5cdd2cbfdae6c0",
+        "type": "tabs",
+        "dimension": 53.195739014647145,
+        "children": [
+          {
+            "id": "0acb62c801a2a2f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zone/Villes/Cendregarde, la jumelle des terres.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cendregarde, la jumelle des terres"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,9 +212,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
@@ -212,43 +222,43 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "e0d5acdf7c571624",
+  "active": "752635cf90498990",
   "lastOpenFiles": [
+    "Zone/Villes/Les villes.canvas",
+    "Zone/Villes/Cendregarde, la jumelle des terres.md",
+    "Zone/Donjons/La hutte de l'Ogresse gourmet.md",
+    "Orga séance/Expédition Palais Roi Grenouille.md",
+    "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026 & 3 oct 2026.md",
+    "Zone/Rencontres.md",
+    "Règles/Règles.md",
+    "Règles/Règles Hexploration.md",
+    "Orga séance/Expédition du 29 Juillet 2026.md",
+    "Zone/Table des zones.md",
+    "Carte.png",
+    "Orga séance/Expédition du 17 sept 2026/carte_mines_de_moelle_fr.jpg",
+    "Orga séance/Expédition du 17 sept 2026/carte_forteresse_dib_fr.jpg",
+    "Monde/hexes/westmarch/10_13.md",
     "Monde/hexes/westmarch/zone_naiades.md",
     "Monde/hexes/westmarch/passage_oiselet.md",
     "Monde/hexes/westmarch/passage_ganse.md",
     "Monde/hexes/westmarch/5_3.md",
-    "Zone/Table des zones.md",
     "Monde/hexes/westmarch/4_8.md",
-    "Carte.png",
     "Monde/hexes/westmarch/4_6.md",
     "Monde/hexes/westmarch/11_7.md",
     "world/hextemplate.md",
     "Orga séance/Expédition 3/Déroulé Séance 3.md",
     "règle V2 faire la fête/Faire la fête v2.pdf",
     "règle V2 faire la fête/Renom.png",
-    "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026.md",
     "Règles/Bienfaits d'Almazzat.png",
     "Monde/hexes/westmarch/2_1.md",
     "Monde/hexes/westmarch/8_6.md",
     "Monde/hextemplate.md",
-    "Règles/Règles Hexploration.md",
     "Orga séance/Expédition 2/Déroulé Séance 2.md",
-    "Zone/Villes/Cendregarde, la jumelle des terres.md",
     "Zone/Villes/cendregarde.png",
     "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
     "Orga séance/Expédition 7 - 24 avril 2026.md",
-    "Orga séance/Expédition 22 juin 2026.md",
-    "Orga séance/Expédition du 29 Juillet 2026.md",
-    "Zone/Villes/Port-Néréide, la ville portuaire.md",
     "Carte joueur.png.pdf",
-    "Zone/Rencontres.md",
-    "Règles/Règles.md",
-    "Orga séance/Expédition du 17 sept 2026/carte_forteresse_dib_fr.jpg",
-    "Orga séance/Expédition du 17 sept 2026/carte_mines_de_moelle_fr.jpg",
     "Orga séance/Expédition du 17 sept 2026",
-    "Monde/tables/terrain/description/desert rocky.md",
-    "Monde/tables/terrain/description/cliffs.md",
     "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png"
   ]
 }
