@@ -6,7 +6,6 @@
       {
         "id": "495fa35d0f6c40b3",
         "type": "tabs",
-        "dimension": 46.804260985352855,
         "children": [
           {
             "id": "d377aec6b0eed3b1",
@@ -23,52 +22,21 @@
             }
           },
           {
-            "id": "e0d5acdf7c571624",
-            "type": "leaf",
-            "state": {
-              "type": "duckmage-hex-map",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Hex map — westmarch"
-            }
-          },
-          {
             "id": "752635cf90498990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zone/Villes/Port-Néréide, la ville portuaire.md",
+                "file": "Recrutement Porteur et Mercenaire/Règle de recrutement/Règle de recrutement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Port-Néréide, la ville portuaire"
+              "title": "Règle de recrutement"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "5a5cdd2cbfdae6c0",
-        "type": "tabs",
-        "dimension": 53.195739014647145,
-        "children": [
-          {
-            "id": "0acb62c801a2a2f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zone/Villes/Cendregarde, la jumelle des terres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cendregarde, la jumelle des terres"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,29 +190,31 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "0acb62c801a2a2f0",
+  "active": "752635cf90498990",
   "lastOpenFiles": [
+    "Orga séance/Expédition du 29 Juillet 2026.md",
+    "Recrutement Porteur et Mercenaire/Règle de recrutement/Règle de recrutement.md",
     "Zone/Villes/Port-Néréide, la ville portuaire.md",
-    "Zone/Les nains d'Argis des Glas..md",
-    "Mercenaires à recruter/Zalmic Magi.pdf",
-    "Mercenaires à recruter/Troguth Guerr.pdf",
-    "Mercenaires à recruter/Raler voleu.pdf",
-    "Mercenaires à recruter/Puuhilsk Assa.pdf",
-    "Mercenaires à recruter/Nirin clerc.pdf",
-    "Mercenaires à recruter/Lorrin Larnste voleur.pdf",
-    "Mercenaires à recruter/Hord Guerr.pdf",
-    "Mercenaires à recruter/Hasc Guerr.pdf",
-    "Mercenaires à recruter/Grathglakh Guerr.pdf",
-    "Mercenaires à recruter/Drim Bard.pdf",
-    "Zone/Villes/Les villes.canvas",
+    "Recrutement Porteur et Mercenaire/Règle de recrutement",
+    "Recrutement Porteur et Mercenaire",
+    "Mercenaires à recruter/Règles de recrutement.md",
     "Zone/Villes/Cendregarde, la jumelle des terres.md",
+    "Zone/Les nains d'Argis des Glas..md",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Zalmic Magi.pdf",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Troguth Guerr.pdf",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Raler voleu.pdf",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Puuhilsk Assa.pdf",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Nirin clerc.pdf",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Lorrin Larnste voleur.pdf",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Hord Guerr.pdf",
+    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Hasc Guerr.pdf",
+    "Zone/Villes/Les villes.canvas",
     "Zone/Donjons/La hutte de l'Ogresse gourmet.md",
     "Orga séance/Expédition Palais Roi Grenouille.md",
     "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026 & 3 oct 2026.md",
     "Zone/Rencontres.md",
     "Règles/Règles.md",
     "Règles/Règles Hexploration.md",
-    "Orga séance/Expédition du 29 Juillet 2026.md",
     "Zone/Table des zones.md",
     "Carte.png",
     "Orga séance/Expédition du 17 sept 2026/carte_mines_de_moelle_fr.jpg",
@@ -264,9 +234,7 @@
     "Monde/hexes/westmarch/2_1.md",
     "Monde/hexes/westmarch/8_6.md",
     "Monde/hextemplate.md",
-    "Orga séance/Expédition 2/Déroulé Séance 2.md",
     "Zone/Villes/cendregarde.png",
-    "Orga séance/Expédition 4/Découverte du village sur pilotis..md",
     "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png"
   ]
 }
