@@ -17,10 +17,10 @@ Trajet des nains par hex 9,7 / 9,8 / 9,9 / 8,10 / 7,10 / 8,11 / 9,11 / 10,12.
              
 Ils passent sur le territoire de l'ours en G10. 
 
-Ils ont subi un première assaut et on perdu des mule et 2 nains mais on réussi à faire fuir leur assaillant à la sortie du guet. 8,11 (G11) Cadavre de Gnôll (3)
+Ils ont subi un première assaut et on perdu des mule et 3 nains mais on réussi à faire fuir leur assaillant à la sortie du guet. 8,11 (G11) Cadavre de Gnôll (3)
 
 Egrim et 4 guerriers sont rester en arrière garde pour affronter leurs poursuivants.
 
 Egrim a été capturer et les 4 autres nains tué (6)Cadavre de Gnôles.
 
-Tribut de Gnôle 25, dirigé par un chef Oktomo Le Fort. 
+Tribut de Gnôle 25, dirigé par un chef Oktomo Le Briseur de crane. 

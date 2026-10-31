@@ -8,35 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d377aec6b0eed3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga séance/Expédition du 29 Juillet 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expédition du 29 Juillet 2026"
-            }
-          },
-          {
             "id": "752635cf90498990",
             "type": "leaf",
             "state": {
+              "type": "duckmage-hex-map",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Hex map — westmarch"
+            }
+          },
+          {
+            "id": "bd1627302ae38c11",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Recrutement Porteur et Mercenaire/Règle de recrutement/Règle de recrutement.md",
+                "file": "Zone/Rencontres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Règle de recrutement"
+              "title": "Rencontres"
+            }
+          },
+          {
+            "id": "65afd697c23f4590",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Carte.png"
+              },
+              "icon": "lucide-image",
+              "title": "Carte"
+            }
+          },
+          {
+            "id": "436f71877df39351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Règles/Règles Hexploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Règles Hexploration"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,8 +212,16 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "752635cf90498990",
+  "active": "436f71877df39351",
   "lastOpenFiles": [
+    "Armes Nouvelles/Necromancer + armes .pdf",
+    "Zone/Les nains d'Argis des Glas..md",
+    "Zone/Rencontres.md",
+    "Bestiaire/Loup.png",
+    "Règles/Règles Hexploration.md",
+    "Zone/Table des zones.md",
+    "Carte.png",
+    "Carte joueur.png.pdf",
     "Orga séance/Expédition du 29 Juillet 2026.md",
     "Recrutement Porteur et Mercenaire/Règle de recrutement/Règle de recrutement.md",
     "Zone/Villes/Port-Néréide, la ville portuaire.md",
@@ -199,7 +229,6 @@
     "Recrutement Porteur et Mercenaire",
     "Mercenaires à recruter/Règles de recrutement.md",
     "Zone/Villes/Cendregarde, la jumelle des terres.md",
-    "Zone/Les nains d'Argis des Glas..md",
     "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Zalmic Magi.pdf",
     "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Troguth Guerr.pdf",
     "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Raler voleu.pdf",
@@ -207,16 +236,11 @@
     "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Nirin clerc.pdf",
     "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Lorrin Larnste voleur.pdf",
     "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Hord Guerr.pdf",
-    "Recrutement Porteur et Mercenaire/Mercenaires à recruter/Hasc Guerr.pdf",
     "Zone/Villes/Les villes.canvas",
     "Zone/Donjons/La hutte de l'Ogresse gourmet.md",
     "Orga séance/Expédition Palais Roi Grenouille.md",
     "Orga séance/Expédition du 17 sept 2026/Expédition du 17 sept 2026 & 3 oct 2026.md",
-    "Zone/Rencontres.md",
     "Règles/Règles.md",
-    "Règles/Règles Hexploration.md",
-    "Zone/Table des zones.md",
-    "Carte.png",
     "Orga séance/Expédition du 17 sept 2026/carte_mines_de_moelle_fr.jpg",
     "Orga séance/Expédition du 17 sept 2026/carte_forteresse_dib_fr.jpg",
     "Monde/hexes/westmarch/10_13.md",
@@ -233,7 +257,6 @@
     "Règles/Bienfaits d'Almazzat.png",
     "Monde/hexes/westmarch/2_1.md",
     "Monde/hexes/westmarch/8_6.md",
-    "Monde/hextemplate.md",
     "Zone/Villes/cendregarde.png",
     "Monde/icons/Capture d’écran du 2026-08-31 14-54-29.png"
   ]
